@@ -1,19 +1,9 @@
-/* =====================================================================
-   SFM-Hackathons: collect.mjs
-   Runs once a day inside GitHub Actions. It:
-     1. Asks Gemini (with Google Search) for hackathons
-     2. Checks every result and throws away anything that breaks the rules
-     3. Merges the good ones into hackathons.json
-   No packages are needed: Node 18+ can call the API with built-in fetch.
-   ===================================================================== */
 import { readFile, writeFile } from "node:fs/promises";
 
-/* ---------- 1. Settings ---------- */
-const MODEL = "gemini-3.6-flash";       // exact model ID from Google AI Studio
-const WINDOW_DAYS = 182;                // look about 6 months ahead
-const FILE = "hackathons.json";         // the file the website reads
+const MODEL = "gemini-2.5-flash";      //Model id
+const WINDOW_DAYS = 182;               //looks 6 months ahead
+const FILE = "hackathons.json";         
 
-// One search per topic gives better coverage than a single big question
 const SEARCHES = [
   "online hackathons of any kind that CSE / computer science students can join",
   "offline hackathons in India focused on software, web development or AI/ML",
@@ -23,7 +13,6 @@ const SEARCHES = [
   "national and government-run hackathons in India open to engineering students, such as Smart India Hackathon",
 ];
 
-// The instructions sent to Gemini. {focus}, {today} and {end} are filled in below.
 const PROMPT = `Today's date is {today}.
 Search the web for real hackathons and coding competitions starting between {today} and {end}.
 Focus: {focus}.
@@ -50,8 +39,7 @@ Each object must have exactly these keys:
 "domain": one of "Software", "Hardware", "Cybersecurity", "Web", "AI/ML", "Other",
 "url": official website link,
 "summary": a clear 2-sentence summary of the tech focus.`;
-
-/* ---------- 2. Asking Gemini ---------- */
+/* Asks Geminie */
 // Pulls the JSON list out of the reply, even if Gemini wrapped it in text or code fences
 export function extractJson(text) {
   const cleaned = text.replace(/```(json)?/g, "").trim();
@@ -84,7 +72,7 @@ async function askGemini(focus, today, end, tries = 3) {
   return [];   // give up on this search, the others still run
 }
 
-/* ---------- 3. Checking the results ---------- */
+/* Result */
 // Turns Gemini's free-form topic into one of the six fixed topics used by the website filters
 function normalizeDomain(v = "") {
   v = v.toLowerCase();
@@ -129,7 +117,6 @@ export function clean(item, today, end) {
 // Same title + same date = same event, so duplicates collapse into one
 const eventId = e => e.title.toLowerCase().replace(/[^a-z0-9]+/g, "") + e.event_date;
 
-/* ---------- 4. Main: collect, merge, save ---------- */
 async function main() {
   if (!process.env.GEMINI_API_KEY) throw new Error("GEMINI_API_KEY is not set. Add it as a repository secret.");
 
