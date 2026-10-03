@@ -1,29 +1,47 @@
+/* =====================================================================
+   SFM-Hackathons: collect.mjs
+   Runs once a day inside GitHub Actions. It:
+     1. Searches the web with Tavily (free plan, no card)
+     2. Gives the search results to Gemini, which picks out the hackathons
+     3. Checks every result and throws away anything that breaks the rules
+     4. Merges the good ones into hackathons.json
+   No packages are needed: Node 18+ can call both APIs with built-in fetch.
+   ===================================================================== */
 import { readFile, writeFile } from "node:fs/promises";
 
-const MODEL = "gemini-2.5-flash";      //Model id
-const WINDOW_DAYS = 182;               //looks 6 months ahead
-const FILE = "hackathons.json";         
+/* ---------- 1. Settings ---------- */
+const MODEL = "gemini-3.6-flash";       // exact model ID from Google AI Studio
+const WINDOW_DAYS = 182;                // look about 6 months ahead
+const FILE = "hackathons.json";         // the file the website reads
+const RESULTS_PER_SEARCH = 10;          // how many web pages Tavily returns per search
 
+// Search words work better with years in them, so we add this year and next year
+const YEARS = `${new Date().getFullYear()} ${new Date().getFullYear() + 1}`;
+
+// One search per topic gives better coverage than a single big search.
+// Each one uses 1 Tavily search. Edit or add lines to cover more topics.
 const SEARCHES = [
-  "online hackathons of any kind that CSE / computer science students can join",
-  "offline hackathons in India focused on software, web development or AI/ML",
-  "offline hackathons in India focused on hardware, IoT, robotics or embedded systems",
-  "cybersecurity hackathons and CTF competitions, online or offline in India",
-  "hackathons in Kolkata and West Bengal for engineering students",
-  "national and government-run hackathons in India open to engineering students, such as Smart India Hackathon",
+  `online hackathon engineering computer science students registration open ${YEARS}`,
+  `hackathon India offline college software web AI ML students ${YEARS}`,
+  `hardware IoT robotics embedded hackathon India engineering students ${YEARS}`,
+  `cybersecurity CTF hackathon India students ${YEARS}`,
+  `hackathon Kolkata West Bengal engineering students ${YEARS}`,
+  `Smart India Hackathon national government hackathon India students ${YEARS}`,
 ];
 
+// The instructions sent to Gemini. {today}, {end} and {results} are filled in below.
 const PROMPT = `Today's date is {today}.
-Search the web for real hackathons and coding competitions starting between {today} and {end}.
-Focus: {focus}.
+Below are web search results. Extract the real hackathons and coding competitions that start between {today} and {end}.
 
 Rules:
+- Use ONLY information found in the search results. Never invent events, dates or links.
 - The event must be open to Computer Science / CSE students. Skip events restricted to other branches or to non-students.
 - Online events can be hosted anywhere in the world.
 - Offline (or hybrid) events must physically take place in India.
-- Only include events with a real, verifiable date. Never invent events.
+- Skip any event that has no clear start date in the results.
+- The "url" must be a link that appears in the results.
 
-Respond with ONLY a valid JSON array, no commentary, no markdown fences, no citations.
+Respond with ONLY a valid JSON array (use [] if there are none).
 Each object must have exactly these keys:
 "title", "organizer",
 "mode": "Online" or "Offline",
@@ -38,8 +56,28 @@ Each object must have exactly these keys:
 "category": one of "Undergraduate", "Independent", "Government",
 "domain": one of "Software", "Hardware", "Cybersecurity", "Web", "AI/ML", "Other",
 "url": official website link,
-"summary": a clear 2-sentence summary of the tech focus.`;
-/* Asks Geminie */
+"summary": a clear 2-sentence summary of the tech focus.
+
+SEARCH RESULTS:
+{results}`;
+
+/* ---------- 2. Searching the web, then asking Gemini ---------- */
+// Step A: Tavily searches the web and returns a list of pages (title, link, text snippet)
+async function searchWeb(query) {
+  try {
+    const res = await fetch("https://api.tavily.com/search", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", Authorization: `Bearer ${process.env.TAVILY_API_KEY}` },
+      body: JSON.stringify({ query, search_depth: "basic", max_results: RESULTS_PER_SEARCH }),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
+    return (await res.json()).results || [];
+  } catch (err) {
+    console.log(`  search failed: ${err.message}`);
+    return [];   // skip this search, the others still run
+  }
+}
+
 // Pulls the JSON list out of the reply, even if Gemini wrapped it in text or code fences
 export function extractJson(text) {
   const cleaned = text.replace(/```(json)?/g, "").trim();
@@ -49,30 +87,36 @@ export function extractJson(text) {
   throw new Error("No JSON list found in the reply");
 }
 
-async function askGemini(focus, today, end, tries = 3) {
-  const prompt = PROMPT.replaceAll("{focus}", focus).replaceAll("{today}", today).replaceAll("{end}", end);
+// Step B: Gemini reads the search results and lists the hackathons it finds in them.
+// No Google Search tool here (that needs a paid key), so this part can run on the free plan.
+async function askGemini(results, today, end, tries = 3) {
+  const resultsText = results
+    .map((r, i) => `[${i + 1}] ${r.title}\n${r.url}\n${String(r.content || "").slice(0, 800)}`)
+    .join("\n\n");
+  const prompt = PROMPT.replaceAll("{today}", today).replaceAll("{end}", end).replace("{results}", () => resultsText);
+
   for (let attempt = 1; attempt <= tries; attempt++) {
     try {
       const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`, {
         method: "POST",
         headers: { "Content-Type": "application/json", "x-goog-api-key": process.env.GEMINI_API_KEY },
-        // google_search lets Gemini look things up on the web.
-        // We do not set temperature: Gemini 3.6 Flash does not accept custom values for it.
-        body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], tools: [{ google_search: {} }] }),
+        // We ask for JSON back. We do not set temperature: Gemini 3.6 Flash does not accept custom values for it.
+        body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { responseMimeType: "application/json" } }),
       });
       if (!res.ok) throw new Error(`HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
       const data = await res.json();
       const text = (data.candidates?.[0]?.content?.parts || []).map(p => p.text || "").join("");
-      return extractJson(text);
+      const list = extractJson(text);
+      return Array.isArray(list) ? list : [];
     } catch (err) {
       console.log(`  attempt ${attempt}/${tries} failed: ${err.message}`);
       await new Promise(r => setTimeout(r, 5000 * attempt));   // wait a bit longer after each failure
     }
   }
-  return [];   // give up on this search, the others still run
+  return [];
 }
 
-/* Result */
+/* ---------- 3. Checking the results ---------- */
 // Turns Gemini's free-form topic into one of the six fixed topics used by the website filters
 function normalizeDomain(v = "") {
   v = v.toLowerCase();
@@ -117,8 +161,10 @@ export function clean(item, today, end) {
 // Same title + same date = same event, so duplicates collapse into one
 const eventId = e => e.title.toLowerCase().replace(/[^a-z0-9]+/g, "") + e.event_date;
 
-async function main() {
+/* ---------- 4. Main: collect, merge, save ---------- */
+export async function main() {
   if (!process.env.GEMINI_API_KEY) throw new Error("GEMINI_API_KEY is not set. Add it as a repository secret.");
+  if (!process.env.TAVILY_API_KEY) throw new Error("TAVILY_API_KEY is not set. Add it as a repository secret.");
 
   const now = new Date();
   const today = now.toISOString().slice(0, 10);
@@ -132,9 +178,12 @@ async function main() {
   } catch {}
 
   let found = 0;
-  for (const focus of SEARCHES) {
-    console.log("Searching:", focus);
-    for (const raw of await askGemini(focus, today, end)) {
+  for (const query of SEARCHES) {
+    console.log("Searching:", query);
+    const results = await searchWeb(query);          // step A: Tavily finds pages
+    if (!results.length) continue;
+    console.log(`  ${results.length} pages found, asking Gemini...`);
+    for (const raw of await askGemini(results, today, end)) {   // step B: Gemini picks out the events
       const event = raw && typeof raw === "object" ? clean(raw, today, end) : null;
       if (event) { merged.set(eventId(event), event); found++; }   // new info replaces old info
     }
