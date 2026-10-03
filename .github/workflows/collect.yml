@@ -1,13 +1,11 @@
-# Runs collect.mjs every day, then saves the new hackathons.json into the repo.
-# GitHub Pages republishes the site automatically after that save.
+
 name: Update hackathons
 
 on:
   schedule:
-    - cron: "30 20 * * *"   # 20:30 UTC every day = 2:00 AM India time
-  workflow_dispatch:         # adds a "Run workflow" button in the Actions tab for manual runs
+    - cron: "30 20 * * *"   
+  workflow_dispatch:       
 
-# Lets the job save hackathons.json back into your repo
 permissions:
   contents: write
 
@@ -26,7 +24,6 @@ jobs:
       - name: Ask Gemini for hackathons
         run: node collect.mjs
         env:
-          # Read from the secret you created in Settings. The key never appears in the code.
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Save hackathons.json if it changed
