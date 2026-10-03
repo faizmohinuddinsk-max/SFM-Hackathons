@@ -1,0 +1,21 @@
+{
+  "updated": "2026-10-03T21:23:53.677Z",
+  "hackathons": [
+    {
+      "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
+      "organizer": "World Federation of Engineering Organizations (WFEO)",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-11-20",
+      "days_left": "Registration open",
+      "eligibility": "Teams of 3 to 5 participants led by an engineering student or young engineer under 30",
+      "category": "Undergraduate",
+      "domain": "Other",
+      "url": "https://worldengineeringday.net/hackathon",
+      "summary": "The 2027 WFEO Hackathon invites participants to solve global sustainable transport engineering challenges. Teams collaborate during a three-week online period to build and submit innovative solutions."
+    }
+  ]
+}
