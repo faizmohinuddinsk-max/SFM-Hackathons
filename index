@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!--
+  SFM-Hackathons: the page structure (HTML only).
+  The look lives in style.css and the behaviour lives in app.js.
+  The events come from hackathons.json, which collect.mjs updates every day.
+-->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SFM-Hackathons</title>
+
+<!-- Fonts: Space Grotesk for headings, Inter for body text -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ========== HEADER: just the title and one line ========== -->
+<header class="topbar">
+  <div class="wrap hero">
+    <h1 class="title">SFM-Hackathons</h1>
+    <p class="tagline">Every hackathon open to CSE students: online from anywhere, offline across India.</p>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ========== SUMMARY NUMBERS (filled in by app.js) ========== -->
+  <section class="stats" aria-label="Summary">
+    <div class="stat"><b id="s-all">–</b><span>Upcoming</span></div>
+    <div class="stat"><b id="s-on">–</b><span>Online</span></div>
+    <div class="stat"><b id="s-off">–</b><span>Offline in India</span></div>
+    <div class="stat"><b id="s-kol">–</b><span>In Kolkata</span></div>
+  </section>
+
+  <!-- Banner for messages such as "could not load events" -->
+  <div class="notice" id="notice" role="status"></div>
+
+  <!-- ========== SEARCH AND FILTERS ========== -->
+  <section class="panel" aria-label="Search and filters">
+    <div class="search-row">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="Search by name, organiser, city or topic" aria-label="Search hackathons">
+      </label>
+      <button class="btn" id="advBtn" aria-expanded="false">Filters</button>
+    </div>
+
+    <!-- Chips (Kolkata, Online/Offline, topics, Saved) are created by app.js -->
+    <div class="chips" id="chips"></div>
+
+    <!-- Extra filters that open when you press "Filters" -->
+    <div class="adv" id="adv">
+      <div><label for="f-org">Organiser type</label>
+        <select id="f-org"><option>All</option><option>Undergraduate</option><option>Independent</option><option>Government</option></select></div>
+      <div><label for="f-from">Starts after</label><input type="date" id="f-from"></div>
+      <div><label for="f-to">Starts before</label><input type="date" id="f-to"></div>
+      <button class="btn clear" id="clear">Clear all filters</button>
+    </div>
+  </section>
+
+  <div class="count" id="count" aria-live="polite"></div>
+
+  <!-- The hackathon cards are placed here by app.js -->
+  <section class="grid" id="grid"></section>
+</main>
+
+<!-- ========== FOOTER ========== -->
+<footer>
+  <div class="wrap">
+    <div class="foot">
+      <img src="assets/logo_icon_small.png" alt="" onerror="this.remove()">
+      <span>Presented by Shaikh Faiz Mohinuddin</span>
+    </div>
+    <p class="fine" id="updated"></p>
+    <p class="fine">Only publicly announced events appear here. Always confirm dates on the organiser's page.</p>
+  </div>
+</footer>
+
+<!-- Details popup and small message (both controlled by app.js) -->
+<div class="overlay" id="overlay"><div class="modal" role="dialog" aria-modal="true" aria-labelledby="m-title" id="modal"></div></div>
+<div class="toast" id="toast"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
