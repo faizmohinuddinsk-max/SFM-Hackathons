@@ -1,9 +1,57 @@
 {
-  "updated": "2026-10-03T21:23:53.677Z",
+  "updated": "2026-10-03T21:40:54.031Z",
   "hackathons": [
     {
+      "title": "Capture the flag 2026 – Campus edition",
+      "organizer": "KPMG in India",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-09",
+      "days_left": "Registration open",
+      "eligibility": "Open to campus students and cybersecurity enthusiasts",
+      "category": "Undergraduate",
+      "domain": "Cybersecurity",
+      "url": "https://kpmg.com/in/en/insights/2026/09/capture-the-flag-2026-campus-edition.html",
+      "summary": "This Capture the Flag hackathon invites campus students to solve real-world cybersecurity challenges. Participants can showcase their skills and test their knowledge in a high-energy competitive environment."
+    },
+    {
+      "title": "ByteMe CTF 26",
+      "organizer": "OWASP - PCCoE, Pune",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-09",
+      "days_left": "Registration open",
+      "eligibility": "Open to students and cybersecurity enthusiasts",
+      "category": "Undergraduate",
+      "domain": "Cybersecurity",
+      "url": "https://ctf7.com",
+      "summary": "ByteMe CTF 26 is a cybersecurity capture the flag competition organized by OWASP PCCoE. Hosted on the CTF7 platform, it challenges participants with hands-on security scenarios and workflows."
+    },
+    {
+      "title": "Black Hat India 2026 Official CTF",
+      "organizer": "Black Hat India",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-10",
+      "days_left": "Registration open",
+      "eligibility": "Open to students and cybersecurity enthusiasts",
+      "category": "Undergraduate",
+      "domain": "Cybersecurity",
+      "url": "https://ctf7.com",
+      "summary": "The official Capture the Flag competition for Black Hat India 2026 hosted on CTF7. It allows participants and teams to compete across leaderboards in various cybersecurity challenges."
+    },
+    {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "World Federation of Engineering Organizations (WFEO)",
+      "organizer": "World Federation of Engineering Organizations",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -11,11 +59,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Teams of 3 to 5 participants led by an engineering student or young engineer under 30",
+      "eligibility": "Engineering students and young engineers under 30",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon invites participants to solve global sustainable transport engineering challenges. Teams collaborate during a three-week online period to build and submit innovative solutions."
+      "summary": "The 2027 WFEO Hackathon invites engineering students and young engineers to solve challenges focused on sustainable transport engineering. Participants work in multidisciplinary teams over a three-week online hackathon period."
     }
   ]
 }
