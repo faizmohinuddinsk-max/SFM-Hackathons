@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T21:40:54.031Z",
+  "updated": "2026-10-04T23:29:31.840Z",
   "hackathons": [
     {
       "title": "Capture the flag 2026 – Campus edition",
@@ -11,11 +11,11 @@
       "prize": "TBA",
       "event_date": "2026-10-09",
       "days_left": "Registration open",
-      "eligibility": "Open to campus students and cybersecurity enthusiasts",
+      "eligibility": "Campus and college students",
       "category": "Undergraduate",
       "domain": "Cybersecurity",
       "url": "https://kpmg.com/in/en/insights/2026/09/capture-the-flag-2026-campus-edition.html",
-      "summary": "This Capture the Flag hackathon invites campus students to solve real-world cybersecurity challenges. Participants can showcase their skills and test their knowledge in a high-energy competitive environment."
+      "summary": "This campus edition cybersecurity CTF hackathon is organized by KPMG in India to engage students in real-world security challenges. Participants dive into hands-on ethical hacking tasks to demonstrate their skills in a competitive environment."
     },
     {
       "title": "ByteMe CTF 26",
@@ -27,11 +27,11 @@
       "prize": "TBA",
       "event_date": "2026-10-09",
       "days_left": "Registration open",
-      "eligibility": "Open to students and cybersecurity enthusiasts",
+      "eligibility": "Students and cybersecurity enthusiasts",
       "category": "Undergraduate",
       "domain": "Cybersecurity",
       "url": "https://ctf7.com",
-      "summary": "ByteMe CTF 26 is a cybersecurity capture the flag competition organized by OWASP PCCoE. Hosted on the CTF7 platform, it challenges participants with hands-on security scenarios and workflows."
+      "summary": "ByteMe CTF 26 is a cybersecurity competition hosted by OWASP PCCoE on the CTF7 platform. It tests participants on key cybersecurity domain challenges such as ethical hacking and vulnerability exploitation."
     },
     {
       "title": "Black Hat India 2026 Official CTF",
@@ -43,11 +43,75 @@
       "prize": "TBA",
       "event_date": "2026-10-10",
       "days_left": "Registration open",
-      "eligibility": "Open to students and cybersecurity enthusiasts",
-      "category": "Undergraduate",
+      "eligibility": "Open to students and cybersecurity professionals",
+      "category": "Independent",
       "domain": "Cybersecurity",
       "url": "https://ctf7.com",
-      "summary": "The official Capture the Flag competition for Black Hat India 2026 hosted on CTF7. It allows participants and teams to compete across leaderboards in various cybersecurity challenges."
+      "summary": "Black Hat India 2026 Official CTF is a cybersecurity challenge hosted on CTF7. The event focuses on evaluating participants' technical expertise across various security and exploitation disciplines."
+    },
+    {
+      "title": "Arc Microgrants | Circle",
+      "organizer": "Circle",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "$6,000",
+      "event_date": "2026-10-15",
+      "days_left": "Registration open",
+      "eligibility": "Open to all developers and students",
+      "category": "Independent",
+      "domain": "Software",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "This online competition hosted by Circle offers microgrants for innovative software projects. Participants can submit tech builds to compete for a share of the $6,000 grant pool."
+    },
+    {
+      "title": "AI Lodge Hackathon 2026",
+      "organizer": "Singapore Management University",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "$2,500",
+      "event_date": "2026-10-19",
+      "days_left": "Registration open",
+      "eligibility": "Open to students and developers",
+      "category": "Undergraduate",
+      "domain": "AI/ML",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "Organized by Singapore Management University, this online hackathon focuses on developing novel artificial intelligence solutions. Teams can build projects to win a share of the $2,500 prize pool."
+    },
+    {
+      "title": "Multimodal AI Hackathon 2026",
+      "organizer": "KamandPrompt – Programming Club of IIT Mandi",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-21",
+      "days_left": "Registration open",
+      "eligibility": "Open to engineering and tech students",
+      "category": "Undergraduate",
+      "domain": "AI/ML",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "Hosted by KamandPrompt, the programming club of IIT Mandi, this online hackathon focuses on multimodal artificial intelligence models. Participants collaborate to create innovative AI solutions and win awards."
+    },
+    {
+      "title": "Build With AI: Basics 2026",
+      "organizer": "Devpost, Inc.",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "$850",
+      "event_date": "2026-10-30",
+      "days_left": "Registration open",
+      "eligibility": "Open to all participants",
+      "category": "Independent",
+      "domain": "AI/ML",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "This online competition by Devpost invites developers to build foundational artificial intelligence applications. Participants can showcase their coding skills and compete for $850 in prizes."
     },
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
