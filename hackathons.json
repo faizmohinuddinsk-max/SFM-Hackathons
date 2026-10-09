@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T00:19:49.423Z",
+  "updated": "2026-10-09T00:33:51.348Z",
   "hackathons": [
     {
       "title": "Capture the flag 2026 – Campus edition",
@@ -171,11 +171,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Engineering students or young engineers under 30 (teams of 3 to 5)",
+      "eligibility": "Engineering students or young engineers under 30",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "This global three-week hackathon focuses on solving challenges related to sustainable transport engineering. Participants collaborate in multidisciplinary teams led by an engineering student or young engineer to submit innovative technical solutions."
+      "summary": "The 2027 WFEO Hackathon challenges participants to build solutions addressing sustainable transport engineering issues. Teams led by engineering students or young engineers collaborate online to submit innovative technical projects."
     }
   ]
 }
