@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T00:12:51.143Z",
+  "updated": "2026-10-10T23:43:26.415Z",
   "hackathons": [
     {
       "title": "Black Hat India 2026 Official CTF",
@@ -27,11 +27,27 @@
       "prize": "TBA",
       "event_date": "2026-10-10",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and engineering students",
+      "eligibility": "Open to students and developers",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "Q-HACK INDIA 2026 is an offline hackathon in India focused on open innovation across software domains. Participants work collaboratively to solve real-world problems and demonstrate tech development skills."
+      "summary": "Q-HACK INDIA 2026 is an offline hackathon featuring no restricted themes for participating developers. Attendees collaborate to build software solutions and compete in a hands-on coding environment."
+    },
+    {
+      "title": "HackInverse 1.0",
+      "organizer": "Hackathon Radar",
+      "mode": "Offline",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "location": "Kolkata, India",
+      "prize": "TBA",
+      "event_date": "2026-10-10",
+      "days_left": "Upcoming",
+      "eligibility": "Students and technology enthusiasts",
+      "category": "Undergraduate",
+      "domain": "Web",
+      "url": "https://www.hackathonradar.com/discover/kolkata/2026",
+      "summary": "HackInverse 1.0 is an in-person hackathon in Kolkata focusing on web development, mobile development, and artificial intelligence. The two-day event encourages participants to build innovative tech projects."
     },
     {
       "title": "CODEARAMBH 2.0",
@@ -43,11 +59,11 @@
       "prize": "TBA",
       "event_date": "2026-10-14",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and engineering students",
+      "eligibility": "Open to students and developers",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "CODEARAMBH 2.0 is an online coding event providing participants an open domain to build innovative software solutions. It offers students an opportunity to collaborate remotely and compete globally."
+      "summary": "CODEARAMBH 2.0 is an online open-theme hackathon open to developers and computer science students. Participants work virtually to develop creative software applications across diverse technical domains."
     },
     {
       "title": "Arc Microgrants | Circle",
@@ -75,11 +91,11 @@
       "prize": "TBA",
       "event_date": "2026-10-15",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and engineering students",
+      "eligibility": "Open to students and developers",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://devfolio.co/hackathons",
-      "summary": "CodeStorm 2026: FutureForge is an online hackathon centered around design and artificial intelligence technologies. Participants collaborate virtually to craft innovative AI-driven applications and products."
+      "summary": "CodeStorm 2026: FutureForge is an online hackathon centered on artificial intelligence and software design. Developers collaborate to build innovative AI-driven tools and digital solutions."
     },
     {
       "title": "AI Lodge Hackathon 2026",
@@ -131,7 +147,7 @@
     },
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "WFEO",
+      "organizer": "World Federation of Engineering Organizations",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -139,11 +155,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Engineering students or young engineers under 30",
+      "eligibility": "Teams of 3-5 participants led by an engineering student or young engineer under 30",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon challenges participants to build solutions addressing sustainable transport engineering issues. Teams led by engineering students or young engineers collaborate online to submit innovative technical projects."
+      "summary": "The 2027 WFEO Hackathon challenges student-led engineering teams to develop solutions for sustainable transport engineering. Participants receive official challenges online and collaborate remotely to solve real-world problems."
     }
   ]
 }
