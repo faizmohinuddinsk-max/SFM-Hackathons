@@ -1,38 +1,6 @@
 {
-  "updated": "2026-10-09T00:33:51.348Z",
+  "updated": "2026-10-10T00:12:51.143Z",
   "hackathons": [
-    {
-      "title": "Capture the flag 2026 – Campus edition",
-      "organizer": "KPMG in India",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-09",
-      "days_left": "Registration open",
-      "eligibility": "Campus and college students",
-      "category": "Undergraduate",
-      "domain": "Cybersecurity",
-      "url": "https://kpmg.com/in/en/insights/2026/09/capture-the-flag-2026-campus-edition.html",
-      "summary": "This campus edition cybersecurity CTF hackathon is organized by KPMG in India to engage students in real-world security challenges. Participants dive into hands-on ethical hacking tasks to demonstrate their skills in a competitive environment."
-    },
-    {
-      "title": "ByteMe CTF 26",
-      "organizer": "OWASP - PCCoE, Pune",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-09",
-      "days_left": "Registration open",
-      "eligibility": "Students and cybersecurity enthusiasts",
-      "category": "Undergraduate",
-      "domain": "Cybersecurity",
-      "url": "https://ctf7.com",
-      "summary": "ByteMe CTF 26 is a cybersecurity competition hosted by OWASP PCCoE on the CTF7 platform. It tests participants on key cybersecurity domain challenges such as ethical hacking and vulnerability exploitation."
-    },
     {
       "title": "Black Hat India 2026 Official CTF",
       "organizer": "Black Hat India",
@@ -59,11 +27,11 @@
       "prize": "TBA",
       "event_date": "2026-10-10",
       "days_left": "Registration open",
-      "eligibility": "Open to students",
+      "eligibility": "Open to Computer Science and engineering students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "Q-HACK INDIA 2026 is an offline hackathon based in India with no domain restrictions. Participants collaborate in teams to build innovative technology solutions."
+      "summary": "Q-HACK INDIA 2026 is an offline hackathon in India focused on open innovation across software domains. Participants work collaboratively to solve real-world problems and demonstrate tech development skills."
     },
     {
       "title": "CODEARAMBH 2.0",
@@ -75,11 +43,11 @@
       "prize": "TBA",
       "event_date": "2026-10-14",
       "days_left": "Registration open",
-      "eligibility": "Open to students",
+      "eligibility": "Open to Computer Science and engineering students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "CODEARAMBH 2.0 is an online open-theme hackathon hosted on Devfolio. Student developers collaborate online to build software projects from scratch."
+      "summary": "CODEARAMBH 2.0 is an online coding event providing participants an open domain to build innovative software solutions. It offers students an opportunity to collaborate remotely and compete globally."
     },
     {
       "title": "Arc Microgrants | Circle",
@@ -107,11 +75,11 @@
       "prize": "TBA",
       "event_date": "2026-10-15",
       "days_left": "Registration open",
-      "eligibility": "Open to students",
+      "eligibility": "Open to Computer Science and engineering students",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://devfolio.co/hackathons",
-      "summary": "CodeStorm 2026: FutureForge is an online hackathon focusing on artificial intelligence and design. Competitors build next-generation intelligent applications."
+      "summary": "CodeStorm 2026: FutureForge is an online hackathon centered around design and artificial intelligence technologies. Participants collaborate virtually to craft innovative AI-driven applications and products."
     },
     {
       "title": "AI Lodge Hackathon 2026",
