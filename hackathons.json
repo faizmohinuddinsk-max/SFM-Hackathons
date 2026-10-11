@@ -1,53 +1,21 @@
 {
-  "updated": "2026-10-10T23:43:26.415Z",
+  "updated": "2026-10-11T23:50:41.182Z",
   "hackathons": [
     {
-      "title": "Black Hat India 2026 Official CTF",
-      "organizer": "Black Hat India",
+      "title": "Hack The Box CTF 2026",
+      "organizer": "Hack The Box",
       "mode": "Online",
       "city": "",
       "state": "",
       "location": "Online",
       "prize": "TBA",
-      "event_date": "2026-10-10",
+      "event_date": "2026-10-12",
       "days_left": "Registration open",
-      "eligibility": "Open to students and cybersecurity professionals",
+      "eligibility": "Open to Computer Science students and cybersecurity enthusiasts",
       "category": "Independent",
       "domain": "Cybersecurity",
-      "url": "https://ctf7.com",
-      "summary": "Black Hat India 2026 Official CTF is a cybersecurity challenge hosted on CTF7. The event focuses on evaluating participants' technical expertise across various security and exploitation disciplines."
-    },
-    {
-      "title": "Q-HACK INDIA 2026",
-      "organizer": "Devfolio",
-      "mode": "Offline",
-      "city": "",
-      "state": "",
-      "location": "India",
-      "prize": "TBA",
-      "event_date": "2026-10-10",
-      "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
-      "category": "Undergraduate",
-      "domain": "Software",
-      "url": "https://devfolio.co/hackathons",
-      "summary": "Q-HACK INDIA 2026 is an offline hackathon featuring no restricted themes for participating developers. Attendees collaborate to build software solutions and compete in a hands-on coding environment."
-    },
-    {
-      "title": "HackInverse 1.0",
-      "organizer": "Hackathon Radar",
-      "mode": "Offline",
-      "city": "Kolkata",
-      "state": "West Bengal",
-      "location": "Kolkata, India",
-      "prize": "TBA",
-      "event_date": "2026-10-10",
-      "days_left": "Upcoming",
-      "eligibility": "Students and technology enthusiasts",
-      "category": "Undergraduate",
-      "domain": "Web",
-      "url": "https://www.hackathonradar.com/discover/kolkata/2026",
-      "summary": "HackInverse 1.0 is an in-person hackathon in Kolkata focusing on web development, mobile development, and artificial intelligence. The two-day event encourages participants to build innovative tech projects."
+      "url": "https://ctf.hackthebox.com/events/upcoming",
+      "summary": "Hack The Box CTF 2026 is an online cybersecurity competition featuring hands-on hacking challenges. Participants test their technical skills in solving complex security problems."
     },
     {
       "title": "CODEARAMBH 2.0",
@@ -76,10 +44,10 @@
       "event_date": "2026-10-15",
       "days_left": "Registration open",
       "eligibility": "Open to students and developers",
-      "category": "Independent",
+      "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "Arc Microgrants by Circle provides developers with funding support to create novel software applications. Participants compete online for grant awards totaling $6,000."
+      "summary": "Arc Microgrants is an online innovation program organized by Circle for students and developers. It provides funding opportunities totaling $6,000 to help participants build and scale software projects."
     },
     {
       "title": "CodeStorm 2026: FutureForge",
@@ -107,11 +75,11 @@
       "prize": "$2,500",
       "event_date": "2026-10-19",
       "days_left": "Registration open",
-      "eligibility": "Open to college students",
+      "eligibility": "Open to students",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "Hosted by Singapore Management University, this online hackathon encourages students to tackle real-world problems using AI. Successful teams win prizes from a $2,500 pool."
+      "summary": "The AI Lodge Hackathon 2026 is an online coding challenge hosted by Singapore Management University. Participants develop novel artificial intelligence solutions to compete for $2,500 in prizes."
     },
     {
       "title": "Multimodal AI Hackathon 2026",
@@ -130,6 +98,54 @@
       "summary": "Organized by IIT Mandi's programming club, this online competition centers on multimodal AI development. Participants create AI models that process diverse data modalities."
     },
     {
+      "title": "Multimodal AI Hackathon 2026 by IIT Mandi",
+      "organizer": "KamandPrompt – Programming Club of IIT Mandi",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-21",
+      "days_left": "Registration open",
+      "eligibility": "Open to students",
+      "category": "Undergraduate",
+      "domain": "AI/ML",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "Organized by the KamandPrompt programming club of IIT Mandi, this online hackathon focuses on multimodal AI applications. Students can participate to showcase their artificial intelligence solutions and earn rewards."
+    },
+    {
+      "title": "cruXipher 2026 - ATMoS '26",
+      "organizer": "BITS Hyderabad",
+      "mode": "Offline",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "location": "BITS Hyderabad",
+      "prize": "TBA",
+      "event_date": "2026-10-23",
+      "days_left": "Registration open",
+      "eligibility": "Open to university students and Computer Science undergraduates",
+      "category": "Undergraduate",
+      "domain": "Cybersecurity",
+      "url": "https://ctftime.org/event/list",
+      "summary": "cruXipher 2026 is a CTF cybersecurity competition organized during the ATMoS '26 festival at BITS Hyderabad. Participants solve security challenges to demonstrate their problem-solving and technical capabilities."
+    },
+    {
+      "title": "HITCON CTF 2026",
+      "organizer": "HITCON",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-23",
+      "days_left": "Registration open",
+      "eligibility": "Open to all students and cybersecurity enthusiasts",
+      "category": "Independent",
+      "domain": "Cybersecurity",
+      "url": "https://ctftime.org/event/list",
+      "summary": "HITCON CTF 2026 is a Jeopardy-style online cybersecurity competition hosting global participants. Contestants solve challenges across reverse engineering, web exploitation, and cryptography."
+    },
+    {
       "title": "Build With AI: Basics 2026",
       "organizer": "Devpost, Inc.",
       "mode": "Online",
@@ -139,11 +155,11 @@
       "prize": "$850",
       "event_date": "2026-10-30",
       "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
-      "category": "Independent",
+      "eligibility": "Open to students",
+      "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "Devpost hosts this beginner-friendly online hackathon to encourage foundational AI application development. Participants compete for $850 in total prize money."
+      "summary": "Build With AI: Basics 2026 is an online hackathon hosted by Devpost. It invites participants to build entry-level artificial intelligence projects to compete for an $850 prize pool."
     },
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
