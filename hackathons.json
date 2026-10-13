@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-11T23:50:41.182Z",
+  "updated": "2026-10-13T02:11:03.839Z",
   "hackathons": [
-    {
-      "title": "Hack The Box CTF 2026",
-      "organizer": "Hack The Box",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-12",
-      "days_left": "Registration open",
-      "eligibility": "Open to Computer Science students and cybersecurity enthusiasts",
-      "category": "Independent",
-      "domain": "Cybersecurity",
-      "url": "https://ctf.hackthebox.com/events/upcoming",
-      "summary": "Hack The Box CTF 2026 is an online cybersecurity competition featuring hands-on hacking challenges. Participants test their technical skills in solving complex security problems."
-    },
     {
       "title": "CODEARAMBH 2.0",
       "organizer": "Devfolio",
@@ -176,6 +160,22 @@
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
       "summary": "The 2027 WFEO Hackathon challenges student-led engineering teams to develop solutions for sustainable transport engineering. Participants receive official challenges online and collaborate remotely to solve real-world problems."
+    },
+    {
+      "title": "2027 WFEO Hackathon",
+      "organizer": "WFEO",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-11-20",
+      "days_left": "Registration open",
+      "eligibility": "Engineering students or young engineers under 30",
+      "category": "Undergraduate",
+      "domain": "Other",
+      "url": "https://worldengineeringday.net/hackathon",
+      "summary": "The 2027 WFEO Hackathon challenges engineering students and young engineers to solve real-world problems around sustainable transport engineering. Participants work in multidisciplinary teams to develop innovative technical solutions."
     }
   ]
 }
