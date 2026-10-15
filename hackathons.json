@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-13T02:11:03.839Z",
+  "updated": "2026-10-15T23:11:16.513Z",
   "hackathons": [
-    {
-      "title": "CODEARAMBH 2.0",
-      "organizer": "Devfolio",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-14",
-      "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
-      "category": "Undergraduate",
-      "domain": "Software",
-      "url": "https://devfolio.co/hackathons",
-      "summary": "CODEARAMBH 2.0 is an online open-theme hackathon open to developers and computer science students. Participants work virtually to develop creative software applications across diverse technical domains."
-    },
     {
       "title": "Arc Microgrants | Circle",
       "organizer": "Circle",
@@ -175,7 +159,7 @@
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon challenges engineering students and young engineers to solve real-world problems around sustainable transport engineering. Participants work in multidisciplinary teams to develop innovative technical solutions."
+      "summary": "The 2027 WFEO Hackathon invites engineering students and young engineers to solve real-world challenges in sustainable transport engineering. Participants work in multidisciplinary teams to build and submit innovative solutions for global impact."
     }
   ]
 }
