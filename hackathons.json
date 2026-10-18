@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T22:32:19.901Z",
+  "updated": "2026-10-18T22:31:32.815Z",
   "hackathons": [
     {
       "title": "AI Lodge Hackathon 2026",
@@ -136,14 +136,14 @@
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "₹5,000",
+      "prize": "TBA",
       "event_date": "2026-11-21",
       "days_left": "Registration open",
-      "eligibility": "Open to all",
+      "eligibility": "Students and early-career developers across India",
       "category": "Undergraduate",
       "domain": "AI/ML",
-      "url": "https://www.instagram.com/reel/DTc4qCmipEx?hl=en",
-      "summary": "Homingo Hack Days is an online AI engineering hackathon open to participants across India. Participants focus on building AI agents, automations, and LLM applications."
+      "url": "https://allhackathons.com/themes/beginner",
+      "summary": "Homingo Hack Days is an online AI engineering hackathon for students and early-career developers across India. Participants focus on building and shipping artificial intelligence and machine learning applications."
     },
     {
       "title": "Homingo Hack Days 2026",
@@ -156,10 +156,10 @@
       "event_date": "2026-11-21",
       "days_left": "Registration open",
       "eligibility": "Open to all of India",
-      "category": "Independent",
+      "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://www.instagram.com/reel/DTc4qCmipEx?hl=en",
-      "summary": "Homingo Hack Days is an online AI engineering hackathon open to participants across India. Competitors focus on building AI agents, automations, and LLM applications."
+      "summary": "Homingo Hack Days is an online AI engineering hackathon open to participants across India. Participants focus on building AI agents, automations, and LLM applications."
     }
   ]
 }
