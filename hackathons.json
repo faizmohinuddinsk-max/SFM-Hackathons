@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-19T23:52:39.115Z",
+  "updated": "2026-10-21T23:32:12.433Z",
   "hackathons": [
-    {
-      "title": "AI Lodge Hackathon 2026",
-      "organizer": "Singapore Management University",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "$2,500",
-      "event_date": "2026-10-19",
-      "days_left": "Registration open",
-      "eligibility": "Open to students",
-      "category": "Undergraduate",
-      "domain": "AI/ML",
-      "url": "https://internshala.com/competitions/hackathons",
-      "summary": "The AI Lodge Hackathon 2026 is an online coding challenge hosted by Singapore Management University. Participants develop novel artificial intelligence solutions to compete for $2,500 in prizes."
-    },
     {
       "title": "Multimodal AI Hackathon 2026",
       "organizer": "KamandPrompt – Programming Club of IIT Mandi",
@@ -48,6 +32,22 @@
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
       "summary": "Organized by the KamandPrompt programming club of IIT Mandi, this online hackathon focuses on multimodal AI applications. Students can participate to showcase their artificial intelligence solutions and earn rewards."
+    },
+    {
+      "title": "2026 Hacking Challenge",
+      "organizer": "Hack The Box",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-21",
+      "days_left": "Registration open",
+      "eligibility": "Open to computer science students and cybersecurity enthusiasts",
+      "category": "Undergraduate",
+      "domain": "Cybersecurity",
+      "url": "https://ctf.hackthebox.com/events/upcoming",
+      "summary": "The 2026 Hacking Challenge is an online capture-the-flag cybersecurity competition hosted by Hack The Box. Participants test and enhance their cybersecurity skills by solving practical security challenges."
     },
     {
       "title": "cruXipher 2026 - ATMoS '26",
@@ -107,11 +107,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Engineering students and young engineers under 30",
+      "eligibility": "Engineering students or young engineers under 30",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon challenges engineering students and young engineers to collaborate on solutions for sustainable transport engineering. Participants work in multidisciplinary teams to solve global engineering challenges."
+      "summary": "The 2027 WFEO Hackathon invites participants to address pressing challenges in sustainable transport engineering. Teams led by engineering students or young engineers work together online to build innovative solutions."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -138,12 +138,12 @@
       "location": "Online",
       "prize": "TBA",
       "event_date": "2026-11-21",
-      "days_left": "Upcoming",
+      "days_left": "Registration open",
       "eligibility": "Students and early-career developers across India",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon for students and early-career developers across India. Participants collaborate virtually to build and ship innovative artificial intelligence projects."
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon geared towards students and early-career developers across India. Participants focus on developing and shipping innovative artificial intelligence and machine learning projects."
     },
     {
       "title": "Homingo Hack Days 2026",
@@ -155,11 +155,27 @@
       "prize": "TBA",
       "event_date": "2026-11-21",
       "days_left": "Registration open",
-      "eligibility": "Open to all of India",
+      "eligibility": "Open to all students in India",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://www.instagram.com/reel/DTc4qCmipEx?hl=en",
-      "summary": "Homingo Hack Days is an online AI engineering hackathon open to participants across India. Participants focus on building AI agents, automations, and LLM applications."
+      "summary": "Homingo Hack Days is an online AI engineering hackathon open to participants across India. Developers focus on building AI agents, automations, and LLM applications."
+    },
+    {
+      "title": "Crate-CTF 2026",
+      "organizer": "CTFtime",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-11-21",
+      "days_left": "Registration open",
+      "eligibility": "Open to students and cybersecurity competitors",
+      "category": "Undergraduate",
+      "domain": "Cybersecurity",
+      "url": "https://ctftime.org/event/list",
+      "summary": "Crate-CTF 2026 is an online Jeopardy-style cybersecurity competition. Participants compete to solve security challenges across various computer science domains."
     }
   ]
 }
