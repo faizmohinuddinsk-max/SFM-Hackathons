@@ -1,54 +1,6 @@
 {
-  "updated": "2026-10-21T23:32:12.433Z",
+  "updated": "2026-10-22T23:30:15.308Z",
   "hackathons": [
-    {
-      "title": "Multimodal AI Hackathon 2026",
-      "organizer": "KamandPrompt – Programming Club of IIT Mandi",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-21",
-      "days_left": "Registration open",
-      "eligibility": "Open to college students",
-      "category": "Undergraduate",
-      "domain": "AI/ML",
-      "url": "https://internshala.com/competitions/hackathons",
-      "summary": "Organized by IIT Mandi's programming club, this online competition centers on multimodal AI development. Participants create AI models that process diverse data modalities."
-    },
-    {
-      "title": "Multimodal AI Hackathon 2026 by IIT Mandi",
-      "organizer": "KamandPrompt – Programming Club of IIT Mandi",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-21",
-      "days_left": "Registration open",
-      "eligibility": "Open to students",
-      "category": "Undergraduate",
-      "domain": "AI/ML",
-      "url": "https://internshala.com/competitions/hackathons",
-      "summary": "Organized by the KamandPrompt programming club of IIT Mandi, this online hackathon focuses on multimodal AI applications. Students can participate to showcase their artificial intelligence solutions and earn rewards."
-    },
-    {
-      "title": "2026 Hacking Challenge",
-      "organizer": "Hack The Box",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-21",
-      "days_left": "Registration open",
-      "eligibility": "Open to computer science students and cybersecurity enthusiasts",
-      "category": "Undergraduate",
-      "domain": "Cybersecurity",
-      "url": "https://ctf.hackthebox.com/events/upcoming",
-      "summary": "The 2026 Hacking Challenge is an online capture-the-flag cybersecurity competition hosted by Hack The Box. Participants test and enhance their cybersecurity skills by solving practical security challenges."
-    },
     {
       "title": "cruXipher 2026 - ATMoS '26",
       "organizer": "BITS Hyderabad",
@@ -99,7 +51,7 @@
     },
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "WFEO",
+      "organizer": "World Federation of Engineering Organizations (WFEO)",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -107,11 +59,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Engineering students or young engineers under 30",
+      "eligibility": "Teams of 3 to 5 led by an engineering student or young engineer under 30",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon invites participants to address pressing challenges in sustainable transport engineering. Teams led by engineering students or young engineers work together online to build innovative solutions."
+      "summary": "This global hackathon invites engineering students to develop innovative solutions for sustainable transport engineering challenges. Participants collaborate in multidisciplinary teams to address critical real-world infrastructure and mobility problems."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -138,12 +90,12 @@
       "location": "Online",
       "prize": "TBA",
       "event_date": "2026-11-21",
-      "days_left": "Registration open",
+      "days_left": "Upcoming",
       "eligibility": "Students and early-career developers across India",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon geared towards students and early-career developers across India. Participants focus on developing and shipping innovative artificial intelligence and machine learning projects."
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon for students and early-career developers across India. Participants are challenged to build and ship practical applications leveraging artificial intelligence and machine learning."
     },
     {
       "title": "Homingo Hack Days 2026",
