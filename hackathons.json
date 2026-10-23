@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T23:30:15.308Z",
+  "updated": "2026-10-23T23:20:34.880Z",
   "hackathons": [
     {
       "title": "cruXipher 2026 - ATMoS '26",
@@ -51,7 +51,7 @@
     },
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "World Federation of Engineering Organizations (WFEO)",
+      "organizer": "WFEO",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -59,11 +59,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Teams of 3 to 5 led by an engineering student or young engineer under 30",
+      "eligibility": "Teams of 3 to 5 led by an engineering student or a young engineer under 30",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "This global hackathon invites engineering students to develop innovative solutions for sustainable transport engineering challenges. Participants collaborate in multidisciplinary teams to address critical real-world infrastructure and mobility problems."
+      "summary": "This global competition invites engineering students and young engineers to address pressing challenges in sustainable transport engineering. Teams work remotely to design and submit innovative solutions starting when official challenges are released."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -90,12 +90,12 @@
       "location": "Online",
       "prize": "TBA",
       "event_date": "2026-11-21",
-      "days_left": "Upcoming",
+      "days_left": "Registration open",
       "eligibility": "Students and early-career developers across India",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon for students and early-career developers across India. Participants are challenged to build and ship practical applications leveraging artificial intelligence and machine learning."
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon tailored for students and early-career developers across India. Participants are challenged to build and ship innovative artificial intelligence solutions during the event."
     },
     {
       "title": "Homingo Hack Days 2026",
@@ -128,6 +128,22 @@
       "domain": "Cybersecurity",
       "url": "https://ctftime.org/event/list",
       "summary": "Crate-CTF 2026 is an online Jeopardy-style cybersecurity competition. Participants compete to solve security challenges across various computer science domains."
+    },
+    {
+      "title": "HackIndia Chennai Overdrive 2027",
+      "organizer": "HackIndia",
+      "mode": "Offline",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "location": "Muthayammal Engineering College",
+      "prize": "TBA",
+      "event_date": "2027-02-11",
+      "days_left": "Upcoming",
+      "eligibility": "Open to all student builders and engineering students",
+      "category": "Undergraduate",
+      "domain": "AI/ML",
+      "url": "https://hackindia.org/tags/iot",
+      "summary": "HackIndia Chennai Overdrive 2027 is a 24-hour national hackathon focused on AI/ML, Web3, and Generative AI technologies. The event brings together student developers to build hardware and software projects at Muthayammal Engineering College."
     }
   ]
 }
