@@ -1,37 +1,21 @@
 {
-  "updated": "2026-10-23T23:20:34.880Z",
+  "updated": "2026-10-24T22:40:02.826Z",
   "hackathons": [
     {
-      "title": "cruXipher 2026 - ATMoS '26",
-      "organizer": "BITS Hyderabad",
-      "mode": "Offline",
-      "city": "Hyderabad",
-      "state": "Telangana",
-      "location": "BITS Hyderabad",
-      "prize": "TBA",
-      "event_date": "2026-10-23",
-      "days_left": "Registration open",
-      "eligibility": "Open to university students and Computer Science undergraduates",
-      "category": "Undergraduate",
-      "domain": "Cybersecurity",
-      "url": "https://ctftime.org/event/list",
-      "summary": "cruXipher 2026 is a CTF cybersecurity competition organized during the ATMoS '26 festival at BITS Hyderabad. Participants solve security challenges to demonstrate their problem-solving and technical capabilities."
-    },
-    {
-      "title": "HITCON CTF 2026",
-      "organizer": "HITCON",
+      "title": "Product Cyber Security CTF 2026",
+      "organizer": "Hack The Box",
       "mode": "Online",
       "city": "",
       "state": "",
       "location": "Online",
       "prize": "TBA",
-      "event_date": "2026-10-23",
+      "event_date": "2026-10-29",
       "days_left": "Registration open",
       "eligibility": "Open to all students and cybersecurity enthusiasts",
       "category": "Independent",
       "domain": "Cybersecurity",
-      "url": "https://ctftime.org/event/list",
-      "summary": "HITCON CTF 2026 is a Jeopardy-style online cybersecurity competition hosting global participants. Contestants solve challenges across reverse engineering, web exploitation, and cryptography."
+      "url": "https://ctf.hackthebox.com/events/upcoming",
+      "summary": "Product Cyber Security CTF 2026 is an online capture-the-flag competition hosted on Hack The Box. Participants tackle hands-on security challenges to test and improve their cybersecurity knowledge."
     },
     {
       "title": "Build With AI: Basics 2026",
@@ -50,6 +34,22 @@
       "summary": "Build With AI: Basics 2026 is an online hackathon hosted by Devpost. It invites participants to build entry-level artificial intelligence projects to compete for an $850 prize pool."
     },
     {
+      "title": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
+      "organizer": "Hacker's Gambit",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-30",
+      "days_left": "Registration open",
+      "eligibility": "Open to all CS students and cybersecurity enthusiasts",
+      "category": "Independent",
+      "domain": "Cybersecurity",
+      "url": "https://ctftime.org/event/list",
+      "summary": "Hacker's Gambit 2026 is an online Jeopardy-style capture-the-flag competition featuring its grand finale round. Participants solve diverse cybersecurity challenges to demonstrate technical expertise."
+    },
+    {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
       "organizer": "WFEO",
       "mode": "Online",
@@ -59,11 +59,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Teams of 3 to 5 led by an engineering student or a young engineer under 30",
+      "eligibility": "Engineering students or young engineers under 30",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "This global competition invites engineering students and young engineers to address pressing challenges in sustainable transport engineering. Teams work remotely to design and submit innovative solutions starting when official challenges are released."
+      "summary": "The 2027 WFEO Hackathon invites engineering students and young engineers to solve challenges in sustainable transport engineering. Participants form multidisciplinary teams to develop and submit innovative engineering solutions."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -95,7 +95,7 @@
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon tailored for students and early-career developers across India. Participants are challenged to build and ship innovative artificial intelligence solutions during the event."
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. It focuses on building and shipping machine learning applications."
     },
     {
       "title": "Homingo Hack Days 2026",
@@ -139,11 +139,11 @@
       "prize": "TBA",
       "event_date": "2027-02-11",
       "days_left": "Upcoming",
-      "eligibility": "Open to all student builders and engineering students",
+      "eligibility": "Open to students and builders",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://hackindia.org/tags/iot",
-      "summary": "HackIndia Chennai Overdrive 2027 is a 24-hour national hackathon focused on AI/ML, Web3, and Generative AI technologies. The event brings together student developers to build hardware and software projects at Muthayammal Engineering College."
+      "summary": "HackIndia Chennai Overdrive 2027 is a 24-hour hackathon focused on building projects with AI/ML, Generative AI, and Web3 technologies. Participants collaborate to create innovative solutions at Muthayammal Engineering College."
     }
   ]
 }
