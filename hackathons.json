@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T22:40:02.826Z",
+  "updated": "2026-10-25T22:44:15.394Z",
   "hackathons": [
+    {
+      "title": "Cribl's Cybersecurity Awareness CTF",
+      "organizer": "Cribl",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-26",
+      "days_left": "Registration open",
+      "eligibility": "Open to students and cybersecurity enthusiasts",
+      "category": "Independent",
+      "domain": "Cybersecurity",
+      "url": "https://ctf.hackthebox.com/events/upcoming",
+      "summary": "Cribl's Cybersecurity Awareness CTF is an online capture-the-flag competition hosted on the Hack The Box platform. Participants tackle hands-on security challenges to test and expand their technical skill sets."
+    },
     {
       "title": "Product Cyber Security CTF 2026",
       "organizer": "Hack The Box",
@@ -139,11 +155,11 @@
       "prize": "TBA",
       "event_date": "2027-02-11",
       "days_left": "Upcoming",
-      "eligibility": "Open to students and builders",
+      "eligibility": "Open to engineering students and developers",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://hackindia.org/tags/iot",
-      "summary": "HackIndia Chennai Overdrive 2027 is a 24-hour hackathon focused on building projects with AI/ML, Generative AI, and Web3 technologies. Participants collaborate to create innovative solutions at Muthayammal Engineering College."
+      "summary": "HackIndia Chennai Overdrive 2027 is a 24-hour hackathon focused on AI/ML, Web3, and Generative AI technologies. Participants collaborate to build innovative software and hardware prototypes."
     }
   ]
 }
