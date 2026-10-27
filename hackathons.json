@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T22:44:15.394Z",
+  "updated": "2026-10-26T23:59:43.355Z",
   "hackathons": [
     {
       "title": "Cribl's Cybersecurity Awareness CTF",
@@ -67,19 +67,19 @@
     },
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "WFEO",
+      "organizer": "World Federation of Engineering Organizations (WFEO)",
       "mode": "Online",
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "TBA",
+      "prize": "€7,000 (€4,000 / €2,000 / €1,000)",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Engineering students or young engineers under 30",
+      "eligibility": "Engineering students and young engineers under 30 (teams of 3 to 5)",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon invites engineering students and young engineers to solve challenges in sustainable transport engineering. Participants form multidisciplinary teams to develop and submit innovative engineering solutions."
+      "summary": "This global online competition brings together engineering students and young professionals to tackle real-world challenges in sustainable transport engineering. Multidisciplinary teams build and present innovative engineering solutions on an international stage."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -151,15 +151,15 @@
       "mode": "Offline",
       "city": "Chennai",
       "state": "Tamil Nadu",
-      "location": "Muthayammal Engineering College",
+      "location": "Chennai",
       "prize": "TBA",
       "event_date": "2027-02-11",
-      "days_left": "Upcoming",
-      "eligibility": "Open to engineering students and developers",
+      "days_left": "Registration open",
+      "eligibility": "Open to university and engineering students",
       "category": "Undergraduate",
-      "domain": "AI/ML",
+      "domain": "Hardware",
       "url": "https://hackindia.org/tags/iot",
-      "summary": "HackIndia Chennai Overdrive 2027 is a 24-hour hackathon focused on AI/ML, Web3, and Generative AI technologies. Participants collaborate to build innovative software and hardware prototypes."
+      "summary": "HackIndia Chennai Overdrive 2027 is a regional hackathon focused on IoT and robotics innovation. Participants build physical automation projects and smart device prototypes."
     }
   ]
 }
