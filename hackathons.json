@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-26T23:59:43.355Z",
+  "updated": "2026-10-29T00:12:42.536Z",
   "hackathons": [
-    {
-      "title": "Cribl's Cybersecurity Awareness CTF",
-      "organizer": "Cribl",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-26",
-      "days_left": "Registration open",
-      "eligibility": "Open to students and cybersecurity enthusiasts",
-      "category": "Independent",
-      "domain": "Cybersecurity",
-      "url": "https://ctf.hackthebox.com/events/upcoming",
-      "summary": "Cribl's Cybersecurity Awareness CTF is an online capture-the-flag competition hosted on the Hack The Box platform. Participants tackle hands-on security challenges to test and expand their technical skill sets."
-    },
     {
       "title": "Product Cyber Security CTF 2026",
       "organizer": "Hack The Box",
@@ -32,6 +16,22 @@
       "domain": "Cybersecurity",
       "url": "https://ctf.hackthebox.com/events/upcoming",
       "summary": "Product Cyber Security CTF 2026 is an online capture-the-flag competition hosted on Hack The Box. Participants tackle hands-on security challenges to test and improve their cybersecurity knowledge."
+    },
+    {
+      "title": "UV CyberQuest 2026",
+      "organizer": "Hack The Box",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-10-29",
+      "days_left": "Registration open",
+      "eligibility": "Open to all participants including Computer Science students",
+      "category": "Independent",
+      "domain": "Cybersecurity",
+      "url": "https://ctf.hackthebox.com/events/upcoming",
+      "summary": "UV CyberQuest 2026 is an online Capture The Flag cybersecurity competition hosted on Hack The Box. Participants engage in hands-on hacking challenges to test and showcase their offensive security skills."
     },
     {
       "title": "Build With AI: Basics 2026",
@@ -106,12 +106,12 @@
       "location": "Online",
       "prize": "TBA",
       "event_date": "2026-11-21",
-      "days_left": "Registration open",
+      "days_left": "Upcoming",
       "eligibility": "Students and early-career developers across India",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. It focuses on building and shipping machine learning applications."
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. Participants are challenged to build and ship practical artificial intelligence and machine learning projects."
     },
     {
       "title": "Homingo Hack Days 2026",
