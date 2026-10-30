@@ -1,38 +1,6 @@
 {
-  "updated": "2026-10-29T00:12:42.536Z",
+  "updated": "2026-10-30T00:07:17.394Z",
   "hackathons": [
-    {
-      "title": "Product Cyber Security CTF 2026",
-      "organizer": "Hack The Box",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-29",
-      "days_left": "Registration open",
-      "eligibility": "Open to all students and cybersecurity enthusiasts",
-      "category": "Independent",
-      "domain": "Cybersecurity",
-      "url": "https://ctf.hackthebox.com/events/upcoming",
-      "summary": "Product Cyber Security CTF 2026 is an online capture-the-flag competition hosted on Hack The Box. Participants tackle hands-on security challenges to test and improve their cybersecurity knowledge."
-    },
-    {
-      "title": "UV CyberQuest 2026",
-      "organizer": "Hack The Box",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-29",
-      "days_left": "Registration open",
-      "eligibility": "Open to all participants including Computer Science students",
-      "category": "Independent",
-      "domain": "Cybersecurity",
-      "url": "https://ctf.hackthebox.com/events/upcoming",
-      "summary": "UV CyberQuest 2026 is an online Capture The Flag cybersecurity competition hosted on Hack The Box. Participants engage in hands-on hacking challenges to test and showcase their offensive security skills."
-    },
     {
       "title": "Build With AI: Basics 2026",
       "organizer": "Devpost, Inc.",
@@ -66,20 +34,36 @@
       "summary": "Hacker's Gambit 2026 is an online Jeopardy-style capture-the-flag competition featuring its grand finale round. Participants solve diverse cybersecurity challenges to demonstrate technical expertise."
     },
     {
+      "title": "Convergence 1.0",
+      "organizer": "JIS College of Engineering",
+      "mode": "Offline",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "location": "JIS College of Engineering",
+      "prize": "TBA",
+      "event_date": "2026-10-31",
+      "days_left": "Registration open",
+      "eligibility": "College students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://eventopia.in/events/state/west-bengal",
+      "summary": "Convergence 1.0 is an offline hackathon hosted by JIS College of Engineering in West Bengal. The two-day competition provides students a platform to build innovative technology solutions."
+    },
+    {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
       "organizer": "World Federation of Engineering Organizations (WFEO)",
       "mode": "Online",
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "€7,000 (€4,000 / €2,000 / €1,000)",
+      "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Engineering students and young engineers under 30 (teams of 3 to 5)",
+      "eligibility": "Teams of 3 to 5 led by an engineering student or young engineer under 30",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "This global online competition brings together engineering students and young professionals to tackle real-world challenges in sustainable transport engineering. Multidisciplinary teams build and present innovative engineering solutions on an international stage."
+      "summary": "The 2027 WFEO Hackathon invites engineering students and young professionals worldwide to solve challenges in sustainable transport engineering. Teams collaborate remotely to develop solutions following the official challenge release on November 20, 2026."
     },
     {
       "title": "2027 WFEO Hackathon",
