@@ -1,53 +1,21 @@
 {
-  "updated": "2026-10-30T23:57:24.336Z",
+  "updated": "2026-10-31T23:33:10.555Z",
   "hackathons": [
-    {
-      "title": "Build With AI: Basics 2026",
-      "organizer": "Devpost, Inc.",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "$850",
-      "event_date": "2026-10-30",
-      "days_left": "Registration open",
-      "eligibility": "Open to students",
-      "category": "Undergraduate",
-      "domain": "AI/ML",
-      "url": "https://internshala.com/competitions/hackathons",
-      "summary": "Build With AI: Basics 2026 is an online hackathon hosted by Devpost. It invites participants to build entry-level artificial intelligence projects to compete for an $850 prize pool."
-    },
-    {
-      "title": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
-      "organizer": "Hacker's Gambit",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-10-30",
-      "days_left": "Registration open",
-      "eligibility": "Open to all CS students and cybersecurity enthusiasts",
-      "category": "Independent",
-      "domain": "Cybersecurity",
-      "url": "https://ctftime.org/event/list",
-      "summary": "Hacker's Gambit 2026 is an online Jeopardy-style capture-the-flag competition featuring its grand finale round. Participants solve diverse cybersecurity challenges to demonstrate technical expertise."
-    },
     {
       "title": "Convergence 1.0",
       "organizer": "JIS College of Engineering",
       "mode": "Offline",
-      "city": "Kolkata",
+      "city": "Kalyani",
       "state": "West Bengal",
       "location": "JIS College of Engineering",
       "prize": "TBA",
       "event_date": "2026-10-31",
       "days_left": "Registration open",
-      "eligibility": "College students",
+      "eligibility": "Engineering and Computer Science students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://eventopia.in/events/state/west-bengal",
-      "summary": "Convergence 1.0 is an offline hackathon hosted by JIS College of Engineering in West Bengal. The two-day competition provides students a platform to build innovative technology solutions."
+      "summary": "Convergence 1.0 is an offline college hackathon hosted at JIS College of Engineering. Participants compete in teams to design and develop software solutions over the two-day event."
     },
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
@@ -56,14 +24,14 @@
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "€7,000 (€4,000 / €2,000 / €1,000)",
+      "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Students and young engineers under 30",
+      "eligibility": "Engineering students or young engineers under 30",
       "category": "Undergraduate",
-      "domain": "Other",
-      "url": "https://devhunt.org/hackathons/students",
-      "summary": "This global online challenge focuses on innovative engineering solutions for sustainable transport. Teams of students and young engineers compete to develop impactful projects for cash prizes."
+      "domain": "Software",
+      "url": "https://worldengineeringday.net/hackathon",
+      "summary": "The WFEO Hackathon brings together engineering students to tackle global challenges in sustainable transport engineering. Participating teams develop and submit technical solutions virtually following the challenge reveal."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -138,12 +106,12 @@
       "location": "Chennai",
       "prize": "TBA",
       "event_date": "2027-02-11",
-      "days_left": "Registration open",
-      "eligibility": "Open to university and engineering students",
+      "days_left": "Upcoming registration",
+      "eligibility": "Open to engineering and Computer Science students",
       "category": "Undergraduate",
       "domain": "Hardware",
       "url": "https://hackindia.org/tags/iot",
-      "summary": "HackIndia Chennai Overdrive 2027 is a regional hackathon focused on IoT and robotics innovation. Participants build physical automation projects and smart device prototypes."
+      "summary": "This hackathon focuses on building innovative IoT and robotics solutions. Participants collaborate to design smart hardware and embedded systems."
     }
   ]
 }
