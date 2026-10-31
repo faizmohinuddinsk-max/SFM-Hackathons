@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T00:07:17.394Z",
+  "updated": "2026-10-30T23:57:24.336Z",
   "hackathons": [
     {
       "title": "Build With AI: Basics 2026",
@@ -56,14 +56,14 @@
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "TBA",
+      "prize": "€7,000 (€4,000 / €2,000 / €1,000)",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Teams of 3 to 5 led by an engineering student or young engineer under 30",
+      "eligibility": "Students and young engineers under 30",
       "category": "Undergraduate",
       "domain": "Other",
-      "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon invites engineering students and young professionals worldwide to solve challenges in sustainable transport engineering. Teams collaborate remotely to develop solutions following the official challenge release on November 20, 2026."
+      "url": "https://devhunt.org/hackathons/students",
+      "summary": "This global online challenge focuses on innovative engineering solutions for sustainable transport. Teams of students and young engineers compete to develop impactful projects for cash prizes."
     },
     {
       "title": "2027 WFEO Hackathon",
