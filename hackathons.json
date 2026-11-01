@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-31T23:33:10.555Z",
+  "updated": "2026-11-01T23:46:46.931Z",
   "hackathons": [
     {
-      "title": "Convergence 1.0",
-      "organizer": "JIS College of Engineering",
-      "mode": "Offline",
-      "city": "Kalyani",
-      "state": "West Bengal",
-      "location": "JIS College of Engineering",
+      "title": "AI for Lawyers Hackathon",
+      "organizer": "HackIndia",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
       "prize": "TBA",
-      "event_date": "2026-10-31",
+      "event_date": "2026-11-02",
       "days_left": "Registration open",
-      "eligibility": "Engineering and Computer Science students",
-      "category": "Undergraduate",
-      "domain": "Software",
-      "url": "https://eventopia.in/events/state/west-bengal",
-      "summary": "Convergence 1.0 is an offline college hackathon hosted at JIS College of Engineering. Participants compete in teams to design and develop software solutions over the two-day event."
+      "eligibility": "Open worldwide",
+      "category": "Independent",
+      "domain": "AI/ML",
+      "url": "https://hackindia.org",
+      "summary": "This virtual hackathon challenges participants to apply artificial intelligence solutions to the legal domain. Developers around the globe collaborate to build innovative AI-driven tools for legal tech."
     },
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
@@ -96,6 +96,38 @@
       "domain": "Cybersecurity",
       "url": "https://ctftime.org/event/list",
       "summary": "Crate-CTF 2026 is an online Jeopardy-style cybersecurity competition. Participants compete to solve security challenges across various computer science domains."
+    },
+    {
+      "title": "13th Protocol: An AI Hackathon 2026",
+      "organizer": "HackIndia",
+      "mode": "Offline",
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh",
+      "location": "KCC Institute of Technology & Management, Greater Noida",
+      "prize": "TBA",
+      "event_date": "2026-11-28",
+      "days_left": "Registration open",
+      "eligibility": "Open to engineering students and developers",
+      "category": "Undergraduate",
+      "domain": "AI/ML",
+      "url": "https://hackindia.org",
+      "summary": "An in-person AI hackathon held at the KCC Institute of Technology & Management campus in Greater Noida. Participants assemble to build and deploy cutting-edge artificial intelligence projects over two days."
+    },
+    {
+      "title": "Capture the Flag by DSCI",
+      "organizer": "Data Security Council of India (DSCI)",
+      "mode": "Offline",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "location": "Pullman, Aerocity, New Delhi",
+      "prize": "TBA",
+      "event_date": "2026-12-09",
+      "days_left": "Registration open",
+      "eligibility": "Students, Researchers, Security Professionals",
+      "category": "Independent",
+      "domain": "Cybersecurity",
+      "url": "https://www.dsci.in/content/hackathon-2026",
+      "summary": "Data Security Council of India (DSCI) is hosting a Capture the Flag cybersecurity hackathon alongside the Annual Information Security Summit 2026. The competition features nine challenge areas ranging from GenAI to Cryptography."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
