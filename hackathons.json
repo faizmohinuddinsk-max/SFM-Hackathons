@@ -1,25 +1,9 @@
 {
-  "updated": "2026-11-01T23:46:46.931Z",
+  "updated": "2026-11-03T02:32:51.677Z",
   "hackathons": [
     {
-      "title": "AI for Lawyers Hackathon",
-      "organizer": "HackIndia",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-11-02",
-      "days_left": "Registration open",
-      "eligibility": "Open worldwide",
-      "category": "Independent",
-      "domain": "AI/ML",
-      "url": "https://hackindia.org",
-      "summary": "This virtual hackathon challenges participants to apply artificial intelligence solutions to the legal domain. Developers around the globe collaborate to build innovative AI-driven tools for legal tech."
-    },
-    {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "World Federation of Engineering Organizations (WFEO)",
+      "organizer": "WFEO",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -29,9 +13,9 @@
       "days_left": "Registration open",
       "eligibility": "Engineering students or young engineers under 30",
       "category": "Undergraduate",
-      "domain": "Software",
+      "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The WFEO Hackathon brings together engineering students to tackle global challenges in sustainable transport engineering. Participating teams develop and submit technical solutions virtually following the challenge reveal."
+      "summary": "This global competition focuses on developing engineering solutions for sustainable transport challenges. Teams led by engineering students receive the official challenges on November 20, 2026, to design and submit their innovations."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -128,6 +112,22 @@
       "domain": "Cybersecurity",
       "url": "https://www.dsci.in/content/hackathon-2026",
       "summary": "Data Security Council of India (DSCI) is hosting a Capture the Flag cybersecurity hackathon alongside the Annual Information Security Summit 2026. The competition features nine challenge areas ranging from GenAI to Cryptography."
+    },
+    {
+      "title": "DSCI Capture the Flag Hackathon 2026",
+      "organizer": "Data Security Council of India (DSCI)",
+      "mode": "Offline",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "location": "Pullman, Aerocity, New Delhi",
+      "prize": "TBA",
+      "event_date": "2026-12-09",
+      "days_left": "Registration open",
+      "eligibility": "Open to students, researchers, and security professionals",
+      "category": "Independent",
+      "domain": "Cybersecurity",
+      "url": "https://www.dsci.in/content/hackathon-2026",
+      "summary": "The DSCI Capture the Flag hackathon features nine challenge areas ranging from GenAI to cryptography. Hosted alongside the Annual Information Security Summit 2026, it aims to recognize and reward top cybersecurity talent in the country."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
