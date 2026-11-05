@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:47:01.014Z",
+  "updated": "2026-11-05T00:58:58.867Z",
   "hackathons": [
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
@@ -42,12 +42,12 @@
       "location": "Online",
       "prize": "TBA",
       "event_date": "2026-11-21",
-      "days_left": "Upcoming",
+      "days_left": "Registration open",
       "eligibility": "Students and early-career developers across India",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon for students and early-career developers across India. Participants are challenged to build and ship innovative artificial intelligence and machine learning projects."
+      "summary": "Homingo Hack Days is an online AI engineering hackathon designed for students and beginner developers across India. Participants collaborate virtually to build and ship innovative artificial intelligence and machine learning applications."
     },
     {
       "title": "Homingo Hack Days 2026",
@@ -98,6 +98,22 @@
       "summary": "An in-person AI hackathon held at the KCC Institute of Technology & Management campus in Greater Noida. Participants assemble to build and deploy cutting-edge artificial intelligence projects over two days."
     },
     {
+      "title": "AI + Blockchain Global University Autumn Camp Hackathon",
+      "organizer": "Quack AI and Imperial College",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "$69K",
+      "event_date": "2026-11-28",
+      "days_left": "Registration open",
+      "eligibility": "University students worldwide",
+      "category": "Undergraduate",
+      "domain": "AI/ML",
+      "url": "https://cryptorank.io/news/feed/0abf8-quack-ai-imperial-college-global-student-hackathon",
+      "summary": "This global student hackathon organized by Quack AI and Imperial College focuses on AI and blockchain innovation. University students worldwide compete to build Web3 and AI projects on the BNB Chain."
+    },
+    {
       "title": "Capture the Flag by DSCI",
       "organizer": "Data Security Council of India (DSCI)",
       "mode": "Offline",
@@ -130,20 +146,52 @@
       "summary": "The DSCI Capture the Flag hackathon features nine challenge areas ranging from GenAI to cryptography. Hosted alongside the Annual Information Security Summit 2026, it aims to recognize and reward top cybersecurity talent in the country."
     },
     {
+      "title": "HackIndia Originals- FIN//NEXT 2027",
+      "organizer": "HackIndia",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2027-01-18",
+      "days_left": "Registration open",
+      "eligibility": "Open to developers, builders, and engineering students",
+      "category": "Undergraduate",
+      "domain": "Web",
+      "url": "https://hackindia.org/hackathons",
+      "summary": "HackIndia Originals FIN//NEXT 2027 is a virtual hackathon focusing on next-generation financial technology and web solutions. Student builders work virtually to solve real-world digital finance challenges."
+    },
+    {
       "title": "HackIndia Chennai Overdrive 2027",
       "organizer": "HackIndia",
       "mode": "Offline",
       "city": "Chennai",
       "state": "Tamil Nadu",
-      "location": "Chennai",
+      "location": "Mailam Engineering College (MEC)",
       "prize": "TBA",
       "event_date": "2027-02-11",
-      "days_left": "Upcoming registration",
-      "eligibility": "Open to engineering and Computer Science students",
+      "days_left": "Registration open",
+      "eligibility": "Open to builders and computer science engineering students",
       "category": "Undergraduate",
-      "domain": "Hardware",
-      "url": "https://hackindia.org/tags/iot",
-      "summary": "This hackathon focuses on building innovative IoT and robotics solutions. Participants collaborate to design smart hardware and embedded systems."
+      "domain": "AI/ML",
+      "url": "https://hackindia.org/hackathons",
+      "summary": "HackIndia Chennai Overdrive 2027 is an in-person coding event focused on AI/ML, Web3, and Generative AI technologies. Participants gather at Mailam Engineering College to build innovative software solutions over two days."
+    },
+    {
+      "title": "Mailam Builds’27",
+      "organizer": "HackIndia",
+      "mode": "Offline",
+      "city": "Mailam",
+      "state": "Tamil Nadu",
+      "location": "Mailam Engineering College (MEC)",
+      "prize": "TBA",
+      "event_date": "2027-03-12",
+      "days_left": "Registration open",
+      "eligibility": "Open to builders and engineering students",
+      "category": "Undergraduate",
+      "domain": "AI/ML",
+      "url": "https://hackindia.org/hackathons",
+      "summary": "Mailam Builds’27 is an offline engineering hackathon centered around AI/ML, Web3, and Blockchain applications. Hosted at Mailam Engineering College, student teams collaborate in person to prototype emerging tech projects."
     }
   ]
 }
