@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-05T00:58:58.867Z",
+  "updated": "2026-11-06T01:03:25.367Z",
   "hackathons": [
     {
+      "title": "Hacksprint 3.0",
+      "organizer": "Devfolio",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-11-08",
+      "days_left": "Upcoming",
+      "eligibility": "Open to all students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://devfolio.co/hackathons",
+      "summary": "An upcoming online hackathon hosted on the Devfolio platform. Developers collaborate virtually to solve problems with software."
+    },
+    {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "World Federation of Engineering Organizations (WFEO)",
+      "organizer": "WFEO",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -11,11 +27,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Teams of 3 to 5 participants led by an engineering student or young engineer under 30",
+      "eligibility": "Engineering students and young engineers under 30",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "This global online hackathon challenges multidisciplinary teams to solve real-world problems in sustainable transport engineering. Participants develop innovative solutions based on official challenges released to competing teams."
+      "summary": "A global online hackathon focusing on sustainable transport engineering challenges. Multidisciplinary teams collaborate remotely to build innovative solutions."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -32,6 +48,22 @@
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
       "summary": "The 2027 WFEO Hackathon invites engineering students and young engineers to solve real-world challenges in sustainable transport engineering. Participants work in multidisciplinary teams to build and submit innovative solutions for global impact."
+    },
+    {
+      "title": "hackodisha-6.0",
+      "organizer": "Devfolio",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-11-20",
+      "days_left": "Registration open",
+      "eligibility": "Open to all students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://devfolio.co/hackathons",
+      "summary": "An online hackathon hosted on Devfolio open to participants across themes. Developers collaborate remotely to build software projects."
     },
     {
       "title": "Homingo Hack Days",
@@ -82,6 +114,22 @@
       "summary": "Crate-CTF 2026 is an online Jeopardy-style cybersecurity competition. Participants compete to solve security challenges across various computer science domains."
     },
     {
+      "title": "Lean In Hacks 8.0",
+      "organizer": "Devfolio",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-11-21",
+      "days_left": "Registration open",
+      "eligibility": "Open to all students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://devfolio.co/hackathons",
+      "summary": "A virtual student hackathon featuring open themes on Devfolio. Participants work in teams to design and code software solutions."
+    },
+    {
       "title": "13th Protocol: An AI Hackathon 2026",
       "organizer": "HackIndia",
       "mode": "Offline",
@@ -91,11 +139,11 @@
       "prize": "TBA",
       "event_date": "2026-11-28",
       "days_left": "Registration open",
-      "eligibility": "Open to engineering students and developers",
+      "eligibility": "Open to engineering and technology students",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://hackindia.org",
-      "summary": "An in-person AI hackathon held at the KCC Institute of Technology & Management campus in Greater Noida. Participants assemble to build and deploy cutting-edge artificial intelligence projects over two days."
+      "summary": "An offline artificial intelligence hackathon held at KCC Institute in Greater Noida. Participants create AI-focused solutions and present their projects."
     },
     {
       "title": "AI + Blockchain Global University Autumn Camp Hackathon",
@@ -155,11 +203,11 @@
       "prize": "TBA",
       "event_date": "2027-01-18",
       "days_left": "Registration open",
-      "eligibility": "Open to developers, builders, and engineering students",
+      "eligibility": "Open to student developers and builders",
       "category": "Undergraduate",
       "domain": "Web",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HackIndia Originals FIN//NEXT 2027 is a virtual hackathon focusing on next-generation financial technology and web solutions. Student builders work virtually to solve real-world digital finance challenges."
+      "summary": "HackIndia Originals- FIN//NEXT 2027 is a virtual hackathon bringing together builders to innovate in financial technology and Web3. Participants collaborate online to construct software projects over the course of the event."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
@@ -171,11 +219,11 @@
       "prize": "TBA",
       "event_date": "2027-02-11",
       "days_left": "Registration open",
-      "eligibility": "Open to builders and computer science engineering students",
+      "eligibility": "Open to student developers and builders",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HackIndia Chennai Overdrive 2027 is an in-person coding event focused on AI/ML, Web3, and Generative AI technologies. Participants gather at Mailam Engineering College to build innovative software solutions over two days."
+      "summary": "HackIndia Chennai Overdrive 2027 is an offline hackathon focusing on AI/ML, Web3, and Generative AI technologies. Participants build innovative applications during a 2-day event at Mailam Engineering College."
     },
     {
       "title": "Mailam Builds’27",
@@ -187,11 +235,11 @@
       "prize": "TBA",
       "event_date": "2027-03-12",
       "days_left": "Registration open",
-      "eligibility": "Open to builders and engineering students",
+      "eligibility": "Open to student developers and builders",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://hackindia.org/hackathons",
-      "summary": "Mailam Builds’27 is an offline engineering hackathon centered around AI/ML, Web3, and Blockchain applications. Hosted at Mailam Engineering College, student teams collaborate in person to prototype emerging tech projects."
+      "summary": "Mailam Builds’27 is an in-person college hackathon focused on AI/ML, Web3, and blockchain innovations. Student developers gather at Mailam Engineering College to build and demonstrate technical projects."
     }
   ]
 }
