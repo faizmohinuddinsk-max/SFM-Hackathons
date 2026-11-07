@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T01:03:25.367Z",
+  "updated": "2026-11-07T00:12:46.029Z",
   "hackathons": [
     {
       "title": "Hacksprint 3.0",
@@ -31,7 +31,7 @@
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "A global online hackathon focusing on sustainable transport engineering challenges. Multidisciplinary teams collaborate remotely to build innovative solutions."
+      "summary": "The 2027 WFEO Hackathon invites multidisciplinary teams led by engineering students to solve challenges in sustainable transport engineering. Participants develop and submit innovative solutions to address global engineering and environmental issues."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -74,12 +74,12 @@
       "location": "Online",
       "prize": "TBA",
       "event_date": "2026-11-21",
-      "days_left": "Registration open",
+      "days_left": "Upcoming",
       "eligibility": "Students and early-career developers across India",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is an online AI engineering hackathon designed for students and beginner developers across India. Participants collaborate virtually to build and ship innovative artificial intelligence and machine learning applications."
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. Participants focus on building and shipping artificial intelligence and machine learning projects."
     },
     {
       "title": "Homingo Hack Days 2026",
