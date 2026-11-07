@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T00:12:46.029Z",
+  "updated": "2026-11-07T23:48:25.030Z",
   "hackathons": [
     {
       "title": "Hacksprint 3.0",
@@ -27,11 +27,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Engineering students and young engineers under 30",
+      "eligibility": "Engineering students or young engineers under 30 years old",
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon invites multidisciplinary teams led by engineering students to solve challenges in sustainable transport engineering. Participants develop and submit innovative solutions to address global engineering and environmental issues."
+      "summary": "The 2027 WFEO Hackathon invites engineering students and young engineers to address pressing challenges in sustainable transport engineering. Teams collaborate virtually to develop and submit innovative engineering solutions following the official challenge release."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -51,19 +51,19 @@
     },
     {
       "title": "hackodisha-6.0",
-      "organizer": "Devfolio",
+      "organizer": "hackodisha",
       "mode": "Online",
       "city": "",
       "state": "",
       "location": "Online",
       "prize": "TBA",
       "event_date": "2026-11-20",
-      "days_left": "Registration open",
-      "eligibility": "Open to all students",
+      "days_left": "Open",
+      "eligibility": "Open to developers and students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "An online hackathon hosted on Devfolio open to participants across themes. Developers collaborate remotely to build software projects."
+      "summary": "hackodisha-6.0 is an online community hackathon open to student developers with flexible project themes. Participants build software solutions to showcase their technical and problem-solving skills."
     },
     {
       "title": "Homingo Hack Days",
@@ -115,19 +115,19 @@
     },
     {
       "title": "Lean In Hacks 8.0",
-      "organizer": "Devfolio",
+      "organizer": "Lean In Hacks",
       "mode": "Online",
       "city": "",
       "state": "",
       "location": "Online",
       "prize": "TBA",
       "event_date": "2026-11-21",
-      "days_left": "Registration open",
-      "eligibility": "Open to all students",
+      "days_left": "Open",
+      "eligibility": "Open to developers and students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "A virtual student hackathon featuring open themes on Devfolio. Participants work in teams to design and code software solutions."
+      "summary": "Lean In Hacks 8.0 is a virtual hackathon encouraging students to collaborate and innovate with no theme restrictions. Competitors develop and present functional software prototypes remotely."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
