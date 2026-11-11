@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T02:51:13.239Z",
+  "updated": "2026-11-11T00:47:24.054Z",
   "hackathons": [
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
@@ -15,7 +15,7 @@
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "This global engineering hackathon invites teams led by engineering students to solve challenges in sustainable transport engineering. Participants work remotely in teams of 3 to 5 to design innovative engineering solutions."
+      "summary": "This hackathon focuses on sustainable transport engineering challenges for engineering students and young engineers. Participants form teams to build technology-driven solutions for real-world engineering problems."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -35,7 +35,7 @@
     },
     {
       "title": "hackodisha-6.0",
-      "organizer": "HackOdisha",
+      "organizer": "Devfolio",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -47,7 +47,7 @@
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "This online hackathon provides a platform for student developers to build software projects without domain restrictions. Participants work in teams to turn creative tech ideas into functional prototypes."
+      "summary": "hackodisha-6.0 is an online student hackathon hosted on Devfolio. It allows participants to build tech innovations with no thematic restrictions."
     },
     {
       "title": "Homingo Hack Days",
@@ -63,7 +63,7 @@
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is an online AI engineering hackathon designed for students and early-career developers across India. Participants focus on shipping innovative artificial intelligence and machine learning solutions."
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. Participants focus on building and shipping machine learning applications over a multi-week timeline."
     },
     {
       "title": "Homingo Hack Days 2026",
@@ -99,7 +99,7 @@
     },
     {
       "title": "Lean In Hacks 8.0",
-      "organizer": "Lean In",
+      "organizer": "Devfolio",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -111,7 +111,7 @@
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "Lean In Hacks 8.0 is a virtual hackathon welcoming participants to solve real-world problems with software solutions. Developers can collaborate remotely across any domain to build impactful applications."
+      "summary": "Lean In Hacks 8.0 is an online hackathon organized on Devfolio encouraging open innovation. Developers collaborate to create software solutions across various domains."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
@@ -187,11 +187,11 @@
       "prize": "TBA",
       "event_date": "2027-01-18",
       "days_left": "Registration open",
-      "eligibility": "Open to student developers and builders",
+      "eligibility": "Open to Computer Science students and developers",
       "category": "Undergraduate",
-      "domain": "Web",
+      "domain": "AI/ML",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HackIndia Originals- FIN//NEXT 2027 is a virtual hackathon bringing together builders to innovate in financial technology and Web3. Participants collaborate online to construct software projects over the course of the event."
+      "summary": "HackIndia Originals- FIN//NEXT 2027 is a virtual hackathon bringing together software builders to tackle modern technical challenges. Participants work remotely over several weeks to build and submit innovative projects."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
@@ -199,19 +199,19 @@
       "mode": "Offline",
       "city": "Chennai",
       "state": "Tamil Nadu",
-      "location": "Mailam Engineering College (MEC)",
+      "location": "Chennai",
       "prize": "TBA",
       "event_date": "2027-02-11",
       "days_left": "Registration open",
-      "eligibility": "Open to student developers and builders",
+      "eligibility": "Open to Computer Science students and tech builders",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HackIndia Chennai Overdrive 2027 is an offline hackathon focusing on AI/ML, Web3, and Generative AI technologies. Participants build innovative applications during a 2-day event at Mailam Engineering College."
+      "summary": "HackIndia Chennai Overdrive 2027 is an in-person developer hackathon hosted in Chennai focusing on AI, ML, and Web3 technologies. Participants collaborate in teams over two days to build and present cutting-edge technical prototypes."
     },
     {
       "title": "Mailam Builds’27",
-      "organizer": "HackIndia",
+      "organizer": "Mailam Engineering College",
       "mode": "Offline",
       "city": "Mailam",
       "state": "Tamil Nadu",
@@ -219,11 +219,11 @@
       "prize": "TBA",
       "event_date": "2027-03-12",
       "days_left": "Registration open",
-      "eligibility": "Open to student developers and builders",
+      "eligibility": "Open to engineering and Computer Science students",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://hackindia.org/hackathons",
-      "summary": "Mailam Builds’27 is an in-person college hackathon focused on AI/ML, Web3, and blockchain innovations. Student developers gather at Mailam Engineering College to build and demonstrate technical projects."
+      "summary": "Mailam Builds’27 is an offline engineering hackathon taking place at Mailam Engineering College. The event encourages students to design solutions leveraging artificial intelligence, Web3, and blockchain infrastructure."
     }
   ]
 }
