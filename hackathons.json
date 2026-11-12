@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T00:47:24.054Z",
+  "updated": "2026-11-12T01:57:59.139Z",
   "hackathons": [
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
@@ -15,7 +15,7 @@
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "This hackathon focuses on sustainable transport engineering challenges for engineering students and young engineers. Participants form teams to build technology-driven solutions for real-world engineering problems."
+      "summary": "The competition challenges participants to develop innovative solutions for sustainable transport engineering. Teams led by engineering students or young engineers build and submit technical solutions following challenge release."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -63,7 +63,7 @@
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. Participants focus on building and shipping machine learning applications over a multi-week timeline."
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. Participants are challenged to build and ship innovative artificial intelligence and machine learning projects."
     },
     {
       "title": "Homingo Hack Days 2026",
@@ -114,6 +114,22 @@
       "summary": "Lean In Hacks 8.0 is an online hackathon organized on Devfolio encouraging open innovation. Developers collaborate to create software solutions across various domains."
     },
     {
+      "title": "micro1 Eval Hackathon 2026",
+      "organizer": "micro1",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "$10,000 USD",
+      "event_date": "2026-11-23",
+      "days_left": "Registration open",
+      "eligibility": "Open to Computer Science students and developers",
+      "category": "Undergraduate",
+      "domain": "AI/ML",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "The micro1 Eval Hackathon 2026 is an online AI competition organized by micro1. Participants work on evaluating AI models and performance benchmarks to compete for cash rewards."
+    },
+    {
       "title": "13th Protocol: An AI Hackathon 2026",
       "organizer": "HackIndia",
       "mode": "Offline",
@@ -146,6 +162,22 @@
       "summary": "This global student hackathon organized by Quack AI and Imperial College focuses on AI and blockchain innovation. University students worldwide compete to build Web3 and AI projects on the BNB Chain."
     },
     {
+      "title": "UGREEN Hackathon 2026",
+      "organizer": "America UGREEN Limited",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "$46,000",
+      "event_date": "2026-12-06",
+      "days_left": "Registration open",
+      "eligibility": "Open to Computer Science students and developers",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "The UGREEN Hackathon 2026 is an online technology contest hosted by America UGREEN Limited. Participants build innovative software solutions and hardware-software integrations to compete for prize money."
+    },
+    {
       "title": "Capture the Flag by DSCI",
       "organizer": "Data Security Council of India (DSCI)",
       "mode": "Offline",
@@ -176,6 +208,38 @@
       "domain": "Cybersecurity",
       "url": "https://www.dsci.in/content/hackathon-2026",
       "summary": "The DSCI Capture the Flag hackathon features nine challenge areas ranging from GenAI to cryptography. Hosted alongside the Annual Information Security Summit 2026, it aims to recognize and reward top cybersecurity talent in the country."
+    },
+    {
+      "title": "QNX Global Hackathon 2026",
+      "organizer": "Devpost",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "$50,000+",
+      "event_date": "2026-12-15",
+      "days_left": "Registration open",
+      "eligibility": "Open to Computer Science students and developers",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "The QNX Global Hackathon 2026 is a worldwide online coding challenge hosted on Devpost. Participants develop software applications utilizing QNX embedded systems technology."
+    },
+    {
+      "title": "PayPal AI Hackathon 2026",
+      "organizer": "Devpost",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "$25,000",
+      "event_date": "2026-12-15",
+      "days_left": "Registration open",
+      "eligibility": "Open to Computer Science students and developers",
+      "category": "Undergraduate",
+      "domain": "AI/ML",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "The PayPal AI Hackathon 2026 is an online artificial intelligence competition hosted via Devpost. Developers solve real-world problems using machine learning and AI technology."
     },
     {
       "title": "HackIndia Originals- FIN//NEXT 2027",
