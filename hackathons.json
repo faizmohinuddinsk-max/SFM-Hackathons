@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:21:10.494Z",
+  "updated": "2026-11-14T00:58:01.400Z",
   "hackathons": [
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
@@ -123,11 +123,11 @@
       "prize": "$10,000 USD",
       "event_date": "2026-11-23",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science students and developers",
-      "category": "Independent",
+      "eligibility": "Open to students and developers",
+      "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "micro1 Eval Hackathon 2026 is an online competition centered on evaluating AI models and intelligent software systems. Participants develop solutions to compete for a total prize pool of $10,000 USD."
+      "summary": "The micro1 Eval Hackathon 2026 is an online competition focused on evaluating and building innovative software and AI tools. Participants compete for a prize pool of $10,000 USD."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
@@ -178,6 +178,22 @@
       "summary": "BUILD 4 ALL is an online hackathon encouraging students to develop creative tech projects. Participants compete virtually to build functional software solutions and earn non-monetary recognition."
     },
     {
+      "title": "SSOIndia Cybersecurity Hackathon and CTF",
+      "organizer": "SSOIndia",
+      "mode": "Offline",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "location": "Shiv Nadar University, Chennai",
+      "prize": "Total Cash Prizes: ₹10,00,000",
+      "event_date": "2026-12-05",
+      "days_left": "Registration open",
+      "eligibility": "Students competing in teams of 2–3 members",
+      "category": "Undergraduate",
+      "domain": "Cybersecurity",
+      "url": "https://www.facebook.com/SSOIndia2/posts/%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%B9-%F0%9D%97%AD%F0%9D%97%BF%F0%9D%97%BC-%F0%9D%97%95%F0%9D%97%BC%F0%9D%97%BC%F0%9D%98%81-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8-%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%99-%F0%9D%97AA%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%96%F0%9D%97%BF%F0%9D%98%86%F0%9D%97%BD%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BD%F0%9D%97%B5%F0%9D%98%86-%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%80-%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%B1%F0%9D%97%B2ready-to-explore-the-se/1150509181178089",
+      "summary": "This multi-stage cybersecurity competition features an online Mini-CTF, bootcamp, online hackathon, and a final onsite CTF challenge. Participants test their technical skills to design secure, privacy-preserving communication systems."
+    },
+    {
       "title": "UGREEN Hackathon 2026",
       "organizer": "America UGREEN Limited",
       "mode": "Online",
@@ -187,11 +203,11 @@
       "prize": "$25,000",
       "event_date": "2026-12-06",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and tech students",
-      "category": "Independent",
+      "eligibility": "Open to students and developers",
+      "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "UGREEN Hackathon 2026 is an online global hackathon hosted by America UGREEN Limited. Developers build innovative technology products to compete for $25,000 in prizes."
+      "summary": "The UGREEN Hackathon 2026 invites tech enthusiasts and students to build creative software applications. Competitors have the opportunity to win prizes from a total pool of $25,000."
     },
     {
       "title": "Capture the Flag by DSCI",
@@ -235,11 +251,11 @@
       "prize": "$46,000",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science students and developers",
-      "category": "Independent",
+      "eligibility": "Open to students and developers",
+      "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "QNX Global Hackathon 2026 is an online coding challenge organized via Devpost. Participants create software projects for embedded systems and compete for $46,000 in total prizes."
+      "summary": "The QNX Global Hackathon 2026 is a worldwide online developer challenge focused on embedded software systems and application development. A total prize pool of $46,000 is awarded to winning solutions."
     },
     {
       "title": "PayPal AI Hackathon 2026",
@@ -248,14 +264,14 @@
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "Awards",
+      "prize": "TBA",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science students and developers",
-      "category": "Independent",
+      "eligibility": "Open to students and developers",
+      "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "PayPal AI Hackathon 2026 challenges participants to create artificial intelligence solutions for modern software applications. Hosted on Devpost, the event offers awards to top-performing teams."
+      "summary": "The PayPal AI Hackathon 2026 challenges participants to build intelligent applications using machine learning and AI technologies. Developers compete online to showcase novel software solutions."
     },
     {
       "title": "HackIndia Originals- FIN//NEXT 2027",
