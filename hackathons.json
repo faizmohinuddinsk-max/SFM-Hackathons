@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T00:58:01.400Z",
+  "updated": "2026-11-15T00:05:13.378Z",
   "hackathons": [
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
@@ -58,12 +58,12 @@
       "location": "Online",
       "prize": "TBA",
       "event_date": "2026-11-21",
-      "days_left": "Registration open",
+      "days_left": "Upcoming",
       "eligibility": "Students and early-career developers across India",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. Participants are challenged to build and ship innovative artificial intelligence and machine learning projects."
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. Participants focus on building and shipping practical artificial intelligence and machine learning projects."
     },
     {
       "title": "Homingo Hack Days 2026",
@@ -123,11 +123,11 @@
       "prize": "$10,000 USD",
       "event_date": "2026-11-23",
       "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
+      "eligibility": "Open to Computer Science and Engineering students",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "The micro1 Eval Hackathon 2026 is an online competition focused on evaluating and building innovative software and AI tools. Participants compete for a prize pool of $10,000 USD."
+      "summary": "This online hackathon focuses on evaluating artificial intelligence systems and LLM capabilities. Participants leverage micro1 tools to build and test advanced AI benchmarks."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
@@ -160,6 +160,22 @@
       "domain": "AI/ML",
       "url": "https://cryptorank.io/news/feed/0abf8-quack-ai-imperial-college-global-student-hackathon",
       "summary": "This global student hackathon organized by Quack AI and Imperial College focuses on AI and blockchain innovation. University students worldwide compete to build Web3 and AI projects on the BNB Chain."
+    },
+    {
+      "title": "DevNexus 2.0",
+      "organizer": "Event Management Group of Government College of Engineering and Leather Technology (GCELT)",
+      "mode": "Offline",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "location": "Government College of Engineering and Leather Technology (GCELT), Kolkata",
+      "prize": "TBA",
+      "event_date": "2026-11-28",
+      "days_left": "Registration deadline November 15, 2026",
+      "eligibility": "Open to students and developers in teams of 2–4 members",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://www.instagram.com/popular/hackathon-in-bangalore?hl=en",
+      "summary": "DevNexus 2.0 is a 24-hour offline coding hackathon aimed at turning creative ideas into innovative software solutions. Participants collaborate in teams to build functional projects within a fast-paced development sprint."
     },
     {
       "title": "BUILD 4 ALL",
@@ -203,11 +219,11 @@
       "prize": "$25,000",
       "event_date": "2026-12-06",
       "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
+      "eligibility": "Open to Computer Science and Engineering students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "The UGREEN Hackathon 2026 invites tech enthusiasts and students to build creative software applications. Competitors have the opportunity to win prizes from a total pool of $25,000."
+      "summary": "This global developer competition challenges participants to create innovative software and tech solutions. Developers design applications around UGREEN consumer electronics ecosystem."
     },
     {
       "title": "Capture the Flag by DSCI",
@@ -251,11 +267,11 @@
       "prize": "$46,000",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
+      "eligibility": "Open to Computer Science and Engineering students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "The QNX Global Hackathon 2026 is a worldwide online developer challenge focused on embedded software systems and application development. A total prize pool of $46,000 is awarded to winning solutions."
+      "summary": "An online hackathon centered on building software solutions powered by the QNX operating system. Participants develop embedded real-time systems and software projects."
     },
     {
       "title": "PayPal AI Hackathon 2026",
@@ -264,14 +280,14 @@
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "TBA",
+      "prize": "$25,000",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
+      "eligibility": "Open to Computer Science and Engineering students",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "The PayPal AI Hackathon 2026 challenges participants to build intelligent applications using machine learning and AI technologies. Developers compete online to showcase novel software solutions."
+      "summary": "This artificial intelligence competition invites students to build intelligent financial tech solutions. Developers leverage AI models to enhance digital payments and fraud prevention."
     },
     {
       "title": "HackIndia Originals- FIN//NEXT 2027",
@@ -304,6 +320,22 @@
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
       "summary": "AWS Hackathon 2027 is a global online hackathon hosted by Amazon Web Services. Competitors build cloud-driven software solutions to win prizes exceeding $50,000."
+    },
+    {
+      "title": "Amazon Web Services (AWS) Hackathon",
+      "organizer": "Amazon Web Services (AWS)",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "$50,000+",
+      "event_date": "2027-01-28",
+      "days_left": "Registration open",
+      "eligibility": "Open to Computer Science and Engineering students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "An online developer event focusing on cloud-native application development using AWS. Participants construct scalable, cloud-based applications to address complex technical challenges."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
