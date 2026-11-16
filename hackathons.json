@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T00:05:13.378Z",
+  "updated": "2026-11-16T00:11:35.887Z",
   "hackathons": [
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
@@ -15,7 +15,7 @@
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "This hackathon challenges participants to solve real-world problems in sustainable transport engineering. Teams led by engineering students or young engineers work virtually to build solutions for released challenges."
+      "summary": "A global online innovation challenge focused on solving sustainable transport engineering problems. Multidisciplinary student teams build technology and engineering solutions for real-world transport issues."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -48,6 +48,22 @@
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
       "summary": "hackodisha-6.0 is a community-driven online hackathon hosted on Devfolio. Participants collaborate remotely to build software projects without restrictive themes."
+    },
+    {
+      "title": "Founders' House Kolkata",
+      "organizer": "Devfolio",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-11-20",
+      "days_left": "Registration open",
+      "eligibility": "Open to all students and developers",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://devfolio.co/hackathons",
+      "summary": "An open-theme online hackathon for developers to create software applications and tools. Participants collaborate remotely to pitch and build novel technology products."
     },
     {
       "title": "Homingo Hack Days",
@@ -123,11 +139,11 @@
       "prize": "$10,000 USD",
       "event_date": "2026-11-23",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and Engineering students",
+      "eligibility": "Open to computer science students and developers",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "This online hackathon focuses on evaluating artificial intelligence systems and LLM capabilities. Participants leverage micro1 tools to build and test advanced AI benchmarks."
+      "summary": "micro1 Eval Hackathon 2026 is an online competition focusing on software and model evaluation techniques. Participants create and test innovative solutions to compete for a $10,000 USD prize pool."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
@@ -219,11 +235,11 @@
       "prize": "$25,000",
       "event_date": "2026-12-06",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and Engineering students",
+      "eligibility": "Open to students and developers",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "This global developer competition challenges participants to create innovative software and tech solutions. Developers design applications around UGREEN consumer electronics ecosystem."
+      "summary": "UGREEN Hackathon 2026 invites participants to design and develop software technology solutions. Competitors participate online for a chance to win $25,000 in rewards."
     },
     {
       "title": "Capture the Flag by DSCI",
@@ -264,14 +280,14 @@
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "$46,000",
+      "prize": "$50,000+",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and Engineering students",
+      "eligibility": "Open to computer science and engineering students globally",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "An online hackathon centered on building software solutions powered by the QNX operating system. Participants develop embedded real-time systems and software projects."
+      "summary": "QNX Global Hackathon 2026 is an international online coding competition focused on software systems and embedded technology. Developers worldwide compete for over $50,000 in total prizes."
     },
     {
       "title": "PayPal AI Hackathon 2026",
@@ -280,14 +296,14 @@
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "$25,000",
+      "prize": "$46,000",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and Engineering students",
+      "eligibility": "Open to computer science students and developers",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "This artificial intelligence competition invites students to build intelligent financial tech solutions. Developers leverage AI models to enhance digital payments and fraud prevention."
+      "summary": "PayPal AI Hackathon 2026 challenges participants to build innovative artificial intelligence applications. Entrants compete online to win part of a $46,000 prize purse."
     },
     {
       "title": "HackIndia Originals- FIN//NEXT 2027",
@@ -304,6 +320,22 @@
       "domain": "AI/ML",
       "url": "https://hackindia.org/hackathons",
       "summary": "HackIndia Originals- FIN//NEXT 2027 is a virtual hackathon bringing together software builders to tackle modern technical challenges. Participants work remotely over several weeks to build and submit innovative projects."
+    },
+    {
+      "title": "Diversion 2k27",
+      "organizer": "IEM Kolkata",
+      "mode": "Offline",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "location": "IEM Gurukul Building, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal",
+      "prize": "TBA",
+      "event_date": "2027-01-22",
+      "days_left": "Registration open",
+      "eligibility": "Open to university students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://techsnap.in/events/city/kolkata/hackathons",
+      "summary": "An offline student hackathon bringing together technology enthusiasts to solve open-ended problems. Teams work together in-person to design and build novel digital solutions."
     },
     {
       "title": "AWS Hackathon 2027",
