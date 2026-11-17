@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-16T00:11:35.887Z",
+  "updated": "2026-11-17T03:03:37.035Z",
   "hackathons": [
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "WFEO",
+      "organizer": "WFEO (World Federation of Engineering Organizations)",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -15,7 +15,7 @@
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "A global online innovation challenge focused on solving sustainable transport engineering problems. Multidisciplinary student teams build technology and engineering solutions for real-world transport issues."
+      "summary": "The 2027 WFEO Hackathon invites engineering students to tackle challenges in sustainable transport engineering. Participants build teams to design, develop, and submit solutions following challenge releases on November 20, 2026."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -63,7 +63,7 @@
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "An open-theme online hackathon for developers to create software applications and tools. Participants collaborate remotely to pitch and build novel technology products."
+      "summary": "Founders' House Kolkata is an online hackathon hosted on Devfolio with no domain restrictions. Participants collaborate remotely to build and present software prototypes."
     },
     {
       "title": "Homingo Hack Days",
@@ -139,27 +139,27 @@
       "prize": "$10,000 USD",
       "event_date": "2026-11-23",
       "days_left": "Registration open",
-      "eligibility": "Open to computer science students and developers",
+      "eligibility": "Open to Computer Science and Engineering students",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "micro1 Eval Hackathon 2026 is an online competition focusing on software and model evaluation techniques. Participants create and test innovative solutions to compete for a $10,000 USD prize pool."
+      "summary": "The micro1 Eval Hackathon 2026 challenges participants to build and evaluate innovative AI and software models. Developers compete online to showcase technical solutions for a chance to win from a $10,000 prize pool."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
-      "organizer": "HackIndia",
+      "organizer": "KCCITM",
       "mode": "Offline",
       "city": "Greater Noida",
       "state": "Uttar Pradesh",
-      "location": "KCC Institute of Technology & Management, Greater Noida",
-      "prize": "TBA",
+      "location": "KCCITM, Greater Noida",
+      "prize": "₹60K",
       "event_date": "2026-11-28",
       "days_left": "Registration open",
-      "eligibility": "Open to engineering and technology students",
+      "eligibility": "Open to computer science students and developers",
       "category": "Undergraduate",
       "domain": "AI/ML",
-      "url": "https://hackindia.org",
-      "summary": "An offline artificial intelligence hackathon held at KCC Institute in Greater Noida. Participants create AI-focused solutions and present their projects."
+      "url": "https://hackindia.org/hackathons",
+      "summary": "13th Protocol is an offline AI hackathon hosted at KCCITM in Greater Noida. Participating teams build artificial intelligence solutions over two days to compete for a prize pool of ₹60K."
     },
     {
       "title": "AI + Blockchain Global University Autumn Camp Hackathon",
@@ -194,6 +194,22 @@
       "summary": "DevNexus 2.0 is a 24-hour offline coding hackathon aimed at turning creative ideas into innovative software solutions. Participants collaborate in teams to build functional projects within a fast-paced development sprint."
     },
     {
+      "title": "RISE Hackathon 2026",
+      "organizer": "The Pupil Saveetha Eco School",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "₹45,000",
+      "event_date": "2026-11-28",
+      "days_left": "Registration open",
+      "eligibility": "Open to students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "RISE Hackathon 2026 is a virtual coding challenge bringing together student innovators. Participants design and build software projects online to compete for ₹45,000 in rewards."
+    },
+    {
       "title": "BUILD 4 ALL",
       "organizer": "CS4ALL",
       "mode": "Online",
@@ -226,6 +242,22 @@
       "summary": "This multi-stage cybersecurity competition features an online Mini-CTF, bootcamp, online hackathon, and a final onsite CTF challenge. Participants test their technical skills to design secure, privacy-preserving communication systems."
     },
     {
+      "title": "MNIT Jaipur Student Hackathon 2026",
+      "organizer": "MIIC",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-12-05",
+      "days_left": "Registration open",
+      "eligibility": "Open to student developers and engineering students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://internshala.com/competitions/hackathons",
+      "summary": "MNIT Jaipur Student Hackathon 2026 is an online competition organized by MIIC to foster student innovation. Participants develop software solutions to solve real-world problems."
+    },
+    {
       "title": "UGREEN Hackathon 2026",
       "organizer": "America UGREEN Limited",
       "mode": "Online",
@@ -235,11 +267,11 @@
       "prize": "$25,000",
       "event_date": "2026-12-06",
       "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
+      "eligibility": "Open to Computer Science and Engineering students",
       "category": "Undergraduate",
-      "domain": "Software",
+      "domain": "Other",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "UGREEN Hackathon 2026 invites participants to design and develop software technology solutions. Competitors participate online for a chance to win $25,000 in rewards."
+      "summary": "The UGREEN Hackathon 2026 focuses on building modern technological and product solutions in a competitive global environment. Participants compete remotely for cash rewards totaling $25,000."
     },
     {
       "title": "Capture the Flag by DSCI",
@@ -283,11 +315,11 @@
       "prize": "$50,000+",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to computer science and engineering students globally",
+      "eligibility": "Open to Computer Science and Engineering students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "QNX Global Hackathon 2026 is an international online coding competition focused on software systems and embedded technology. Developers worldwide compete for over $50,000 in total prizes."
+      "summary": "The QNX Global Hackathon 2026 invites developers worldwide to build software solutions leveraging QNX technologies. Participants submit projects online to compete for over $50,000 in prizes."
     },
     {
       "title": "PayPal AI Hackathon 2026",
@@ -299,11 +331,11 @@
       "prize": "$46,000",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to computer science students and developers",
+      "eligibility": "Open to Computer Science and Engineering students",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "PayPal AI Hackathon 2026 challenges participants to build innovative artificial intelligence applications. Entrants compete online to win part of a $46,000 prize purse."
+      "summary": "PayPal AI Hackathon 2026 challenges participants to build innovative artificial intelligence applications for digital finance and tech workflows. Teams compete online for a total prize pool of $46,000."
     },
     {
       "title": "HackIndia Originals- FIN//NEXT 2027",
@@ -315,11 +347,11 @@
       "prize": "TBA",
       "event_date": "2027-01-18",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science students and developers",
+      "eligibility": "Open to student developers and builders",
       "category": "Undergraduate",
-      "domain": "AI/ML",
+      "domain": "Web",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HackIndia Originals- FIN//NEXT 2027 is a virtual hackathon bringing together software builders to tackle modern technical challenges. Participants work remotely over several weeks to build and submit innovative projects."
+      "summary": "HackIndia Originals- FIN//NEXT 2027 is a virtual developer hackathon focusing on Web3 and fintech systems. Participants collaborate online over several weeks to build decentralized applications."
     },
     {
       "title": "Diversion 2k27",
@@ -327,15 +359,15 @@
       "mode": "Offline",
       "city": "Kolkata",
       "state": "West Bengal",
-      "location": "IEM Gurukul Building, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal",
+      "location": "IEM Gurukul Building, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal, India",
       "prize": "TBA",
       "event_date": "2027-01-22",
       "days_left": "Registration open",
-      "eligibility": "Open to university students",
+      "eligibility": "Open to students and developers",
       "category": "Undergraduate",
       "domain": "Software",
-      "url": "https://techsnap.in/events/city/kolkata/hackathons",
-      "summary": "An offline student hackathon bringing together technology enthusiasts to solve open-ended problems. Teams work together in-person to design and build novel digital solutions."
+      "url": "https://devfolio.co/hackathons",
+      "summary": "Diversion 2k27 is an offline student hackathon hosted at Institute of Engineering & Management, Kolkata. Participants work in teams across open themes to build functional technological prototypes."
     },
     {
       "title": "AWS Hackathon 2027",
@@ -375,19 +407,19 @@
       "mode": "Offline",
       "city": "Chennai",
       "state": "Tamil Nadu",
-      "location": "Chennai",
+      "location": "Muthayammal Engineering College",
       "prize": "TBA",
       "event_date": "2027-02-11",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science students and tech builders",
+      "eligibility": "Open to student builders and CS undergraduates",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HackIndia Chennai Overdrive 2027 is an in-person developer hackathon hosted in Chennai focusing on AI, ML, and Web3 technologies. Participants collaborate in teams over two days to build and present cutting-edge technical prototypes."
+      "summary": "HackIndia Chennai Overdrive 2027 is an in-person hackathon held at Muthayammal Engineering College. Teams focus on building solutions using AI/ML, Web3, and Generative AI technologies."
     },
     {
       "title": "Mailam Builds’27",
-      "organizer": "Mailam Engineering College",
+      "organizer": "Mailam Engineering College (MEC)",
       "mode": "Offline",
       "city": "Mailam",
       "state": "Tamil Nadu",
@@ -395,11 +427,11 @@
       "prize": "TBA",
       "event_date": "2027-03-12",
       "days_left": "Registration open",
-      "eligibility": "Open to engineering and Computer Science students",
+      "eligibility": "Open to engineering students and developers",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://hackindia.org/hackathons",
-      "summary": "Mailam Builds’27 is an offline engineering hackathon taking place at Mailam Engineering College. The event encourages students to design solutions leveraging artificial intelligence, Web3, and blockchain infrastructure."
+      "summary": "Mailam Builds’27 is an offline hackathon conducted at Mailam Engineering College. Student builders work on real-world projects centered around Blockchain, Web3, and AI technologies."
     }
   ]
 }
