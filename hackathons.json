@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:03:37.035Z",
+  "updated": "2026-11-19T01:56:56.044Z",
   "hackathons": [
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
@@ -139,11 +139,11 @@
       "prize": "$10,000 USD",
       "event_date": "2026-11-23",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and Engineering students",
+      "eligibility": "Open to students and tech enthusiasts",
       "category": "Undergraduate",
-      "domain": "AI/ML",
+      "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "The micro1 Eval Hackathon 2026 challenges participants to build and evaluate innovative AI and software models. Developers compete online to showcase technical solutions for a chance to win from a $10,000 prize pool."
+      "summary": "The micro1 Eval Hackathon 2026 is an online competition organized by micro1 for technology enthusiasts. Participants compete to solve engineering challenges and win prizes from a $10,000 pool."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
@@ -203,11 +203,11 @@
       "prize": "₹45,000",
       "event_date": "2026-11-28",
       "days_left": "Registration open",
-      "eligibility": "Open to students",
+      "eligibility": "Students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "RISE Hackathon 2026 is a virtual coding challenge bringing together student innovators. Participants design and build software projects online to compete for ₹45,000 in rewards."
+      "summary": "RISE Hackathon 2026 is an online tech competition organized by The Pupil Saveetha Eco School. Participants build creative tech projects to win from a ₹45,000 prize pool."
     },
     {
       "title": "BUILD 4 ALL",
@@ -251,11 +251,11 @@
       "prize": "TBA",
       "event_date": "2026-12-05",
       "days_left": "Registration open",
-      "eligibility": "Open to student developers and engineering students",
+      "eligibility": "Students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "MNIT Jaipur Student Hackathon 2026 is an online competition organized by MIIC to foster student innovation. Participants develop software solutions to solve real-world problems."
+      "summary": "MNIT Jaipur Student Hackathon 2026 is an online student hackathon hosted by MIIC. It aims to encourage young innovators to develop solutions for real-world problems."
     },
     {
       "title": "UGREEN Hackathon 2026",
@@ -264,14 +264,14 @@
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "$25,000",
+      "prize": "$46,000",
       "event_date": "2026-12-06",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and Engineering students",
+      "eligibility": "Open to students and developers",
       "category": "Undergraduate",
-      "domain": "Other",
+      "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "The UGREEN Hackathon 2026 focuses on building modern technological and product solutions in a competitive global environment. Participants compete remotely for cash rewards totaling $25,000."
+      "summary": "The UGREEN Hackathon 2026 is an online technology challenge hosted by America UGREEN Limited. Participants build innovative software solutions to compete for $46,000 in prizes."
     },
     {
       "title": "Capture the Flag by DSCI",
@@ -315,11 +315,11 @@
       "prize": "$50,000+",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and Engineering students",
+      "eligibility": "Open to students and global developers",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "The QNX Global Hackathon 2026 invites developers worldwide to build software solutions leveraging QNX technologies. Participants submit projects online to compete for over $50,000 in prizes."
+      "summary": "The QNX Global Hackathon 2026 is a worldwide online competition hosted on Devpost. Developers create cutting-edge software applications to win prizes from a pool exceeding $50,000."
     },
     {
       "title": "PayPal AI Hackathon 2026",
@@ -328,14 +328,14 @@
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "$46,000",
+      "prize": "$25,000",
       "event_date": "2026-12-15",
       "days_left": "Registration open",
-      "eligibility": "Open to Computer Science and Engineering students",
+      "eligibility": "Open to students and developers",
       "category": "Undergraduate",
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
-      "summary": "PayPal AI Hackathon 2026 challenges participants to build innovative artificial intelligence applications for digital finance and tech workflows. Teams compete online for a total prize pool of $46,000."
+      "summary": "The PayPal AI Hackathon 2026 is an online competition focusing on artificial intelligence and machine learning technologies. Participants build intelligent applications to compete for a $25,000 prize pool."
     },
     {
       "title": "HackIndia Originals- FIN//NEXT 2027",
@@ -400,6 +400,22 @@
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
       "summary": "An online developer event focusing on cloud-native application development using AWS. Participants construct scalable, cloud-based applications to address complex technical challenges."
+    },
+    {
+      "title": "HACKSPRINT 3.0 2027",
+      "organizer": "HackIndia",
+      "mode": "Offline",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "location": "KAHE, Coimbatore",
+      "prize": "TBA",
+      "event_date": "2027-02-05",
+      "days_left": "Registration open",
+      "eligibility": "Students and tech builders",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://hackindia.org/hackathons",
+      "summary": "HACKSPRINT 3.0 2027 is an in-person developer hackathon hosted at KAHE in Coimbatore, India. Student builders collaborate over two days to build practical technical solutions."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
