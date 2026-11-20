@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-19T01:56:56.044Z",
+  "updated": "2026-11-20T01:51:16.144Z",
   "hackathons": [
     {
       "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "WFEO (World Federation of Engineering Organizations)",
+      "organizer": "WFEO",
       "mode": "Online",
       "city": "",
       "state": "",
@@ -15,7 +15,7 @@
       "category": "Undergraduate",
       "domain": "Other",
       "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon invites engineering students to tackle challenges in sustainable transport engineering. Participants build teams to design, develop, and submit solutions following challenge releases on November 20, 2026."
+      "summary": "This global competition focuses on building innovative engineering solutions for sustainable transport. Engineering students and young engineers collaborate in teams to tackle challenges released on competition launch."
     },
     {
       "title": "2027 WFEO Hackathon",
@@ -59,11 +59,11 @@
       "prize": "TBA",
       "event_date": "2026-11-20",
       "days_left": "Registration open",
-      "eligibility": "Open to all students and developers",
+      "eligibility": "Open to all developers and students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://devfolio.co/hackathons",
-      "summary": "Founders' House Kolkata is an online hackathon hosted on Devfolio with no domain restrictions. Participants collaborate remotely to build and present software prototypes."
+      "summary": "An open-theme online hackathon hosted on the Devfolio platform for tech enthusiasts and students. Participants can build and showcase innovative software applications across diverse tech fields."
     },
     {
       "title": "Homingo Hack Days",
@@ -411,11 +411,11 @@
       "prize": "TBA",
       "event_date": "2027-02-05",
       "days_left": "Registration open",
-      "eligibility": "Students and tech builders",
+      "eligibility": "Open to students and builders",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HACKSPRINT 3.0 2027 is an in-person developer hackathon hosted at KAHE in Coimbatore, India. Student builders collaborate over two days to build practical technical solutions."
+      "summary": "HACKSPRINT 3.0 2027 is an offline hackathon hosted at KAHE, Coimbatore by HackIndia. It brings together student builders to collaborate and create innovative software solutions."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
@@ -432,6 +432,22 @@
       "domain": "AI/ML",
       "url": "https://hackindia.org/hackathons",
       "summary": "HackIndia Chennai Overdrive 2027 is an in-person hackathon held at Muthayammal Engineering College. Teams focus on building solutions using AI/ML, Web3, and Generative AI technologies."
+    },
+    {
+      "title": "Diversion 2k27",
+      "organizer": "IEM",
+      "mode": "Offline",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "location": "IEM Gurukul Building, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal, India",
+      "prize": "TBA",
+      "event_date": "2027-03-06",
+      "days_left": "Registration open",
+      "eligibility": "Open to university students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://devfolio.co/hackathons",
+      "summary": "An in-person student hackathon hosted at IEM Kolkata focused on fostering software development and creative technology solutions. Teams work together to design, build, and present technical prototypes."
     },
     {
       "title": "Mailam Builds’27",
