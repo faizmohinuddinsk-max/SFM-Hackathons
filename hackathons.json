@@ -1,70 +1,6 @@
 {
-  "updated": "2026-11-20T01:51:16.144Z",
+  "updated": "2026-11-21T01:39:52.114Z",
   "hackathons": [
-    {
-      "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-      "organizer": "WFEO",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-11-20",
-      "days_left": "Registration open",
-      "eligibility": "Engineering students and young engineers under 30",
-      "category": "Undergraduate",
-      "domain": "Other",
-      "url": "https://worldengineeringday.net/hackathon",
-      "summary": "This global competition focuses on building innovative engineering solutions for sustainable transport. Engineering students and young engineers collaborate in teams to tackle challenges released on competition launch."
-    },
-    {
-      "title": "2027 WFEO Hackathon",
-      "organizer": "WFEO",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-11-20",
-      "days_left": "Registration open",
-      "eligibility": "Engineering students or young engineers under 30",
-      "category": "Undergraduate",
-      "domain": "Other",
-      "url": "https://worldengineeringday.net/hackathon",
-      "summary": "The 2027 WFEO Hackathon invites engineering students and young engineers to solve real-world challenges in sustainable transport engineering. Participants work in multidisciplinary teams to build and submit innovative solutions for global impact."
-    },
-    {
-      "title": "hackodisha-6.0",
-      "organizer": "Devfolio",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-11-20",
-      "days_left": "Registration open",
-      "eligibility": "Open to all students",
-      "category": "Undergraduate",
-      "domain": "Software",
-      "url": "https://devfolio.co/hackathons",
-      "summary": "hackodisha-6.0 is a community-driven online hackathon hosted on Devfolio. Participants collaborate remotely to build software projects without restrictive themes."
-    },
-    {
-      "title": "Founders' House Kolkata",
-      "organizer": "Devfolio",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-11-20",
-      "days_left": "Registration open",
-      "eligibility": "Open to all developers and students",
-      "category": "Undergraduate",
-      "domain": "Software",
-      "url": "https://devfolio.co/hackathons",
-      "summary": "An open-theme online hackathon hosted on the Devfolio platform for tech enthusiasts and students. Participants can build and showcase innovative software applications across diverse tech fields."
-    },
     {
       "title": "Homingo Hack Days",
       "organizer": "Homingo",
@@ -208,6 +144,22 @@
       "domain": "Software",
       "url": "https://internshala.com/competitions/hackathons",
       "summary": "RISE Hackathon 2026 is an online tech competition organized by The Pupil Saveetha Eco School. Participants build creative tech projects to win from a ₹45,000 prize pool."
+    },
+    {
+      "title": "HackIndia Hackathon at KCCITM",
+      "organizer": "KCCITM",
+      "mode": "Offline",
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh",
+      "location": "KCCITM, Greater Noida",
+      "prize": "₹60K",
+      "event_date": "2026-11-28",
+      "days_left": "Registration open",
+      "eligibility": "Open to computer science and engineering students",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://hackindia.org/hackathons",
+      "summary": "This student hackathon hosted at KCCITM Greater Noida invites tech enthusiasts to build software projects. Competitors showcase their ideas and compete for a prize pool of ₹60K."
     },
     {
       "title": "BUILD 4 ALL",
@@ -403,7 +355,7 @@
     },
     {
       "title": "HACKSPRINT 3.0 2027",
-      "organizer": "HackIndia",
+      "organizer": "KAHE, Coimbatore",
       "mode": "Offline",
       "city": "Coimbatore",
       "state": "Tamil Nadu",
@@ -411,11 +363,11 @@
       "prize": "TBA",
       "event_date": "2027-02-05",
       "days_left": "Registration open",
-      "eligibility": "Open to students and builders",
+      "eligibility": "Open to computer science and engineering students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HACKSPRINT 3.0 2027 is an offline hackathon hosted at KAHE, Coimbatore by HackIndia. It brings together student builders to collaborate and create innovative software solutions."
+      "summary": "HACKSPRINT 3.0 2027 is an offline hackathon organized at KAHE in Coimbatore for student developers. Participants collaborate to build innovative tech solutions over a two-day event."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
@@ -435,7 +387,7 @@
     },
     {
       "title": "Diversion 2k27",
-      "organizer": "IEM",
+      "organizer": "IEM Kolkata",
       "mode": "Offline",
       "city": "Kolkata",
       "state": "West Bengal",
@@ -443,11 +395,11 @@
       "prize": "TBA",
       "event_date": "2027-03-06",
       "days_left": "Registration open",
-      "eligibility": "Open to university students",
+      "eligibility": "Open to students and young developers",
       "category": "Undergraduate",
       "domain": "Software",
-      "url": "https://devfolio.co/hackathons",
-      "summary": "An in-person student hackathon hosted at IEM Kolkata focused on fostering software development and creative technology solutions. Teams work together to design, build, and present technical prototypes."
+      "url": "https://techsnap.in/hackathons/city/kolkata",
+      "summary": "Diversion 2k27 is an in-person student hackathon hosted at IEM Kolkata. It encourages participants to collaborate in teams and develop innovative software solutions for modern challenges."
     },
     {
       "title": "Mailam Builds’27",
