@@ -1,70 +1,6 @@
 {
-  "updated": "2026-11-21T01:39:52.114Z",
+  "updated": "2026-11-22T00:35:12.317Z",
   "hackathons": [
-    {
-      "title": "Homingo Hack Days",
-      "organizer": "Homingo",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-11-21",
-      "days_left": "Upcoming",
-      "eligibility": "Students and early-career developers across India",
-      "category": "Undergraduate",
-      "domain": "AI/ML",
-      "url": "https://allhackathons.com/themes/beginner",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon designed for students and early-career developers across India. Participants focus on building and shipping practical artificial intelligence and machine learning projects."
-    },
-    {
-      "title": "Homingo Hack Days 2026",
-      "organizer": "Homingo",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-11-21",
-      "days_left": "Registration open",
-      "eligibility": "Open to all students in India",
-      "category": "Undergraduate",
-      "domain": "AI/ML",
-      "url": "https://www.instagram.com/reel/DTc4qCmipEx?hl=en",
-      "summary": "Homingo Hack Days is an online AI engineering hackathon open to participants across India. Developers focus on building AI agents, automations, and LLM applications."
-    },
-    {
-      "title": "Crate-CTF 2026",
-      "organizer": "CTFtime",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-11-21",
-      "days_left": "Registration open",
-      "eligibility": "Open to students and cybersecurity competitors",
-      "category": "Undergraduate",
-      "domain": "Cybersecurity",
-      "url": "https://ctftime.org/event/list",
-      "summary": "Crate-CTF 2026 is an online Jeopardy-style cybersecurity competition. Participants compete to solve security challenges across various computer science domains."
-    },
-    {
-      "title": "Lean In Hacks 8.0",
-      "organizer": "Devfolio",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
-      "prize": "TBA",
-      "event_date": "2026-11-21",
-      "days_left": "Registration open",
-      "eligibility": "Open to all students",
-      "category": "Undergraduate",
-      "domain": "Software",
-      "url": "https://devfolio.co/hackathons",
-      "summary": "Lean In Hacks 8.0 is a virtual student hackathon focusing on open-ended technical creation. Developers connect online to build and showcase innovative applications."
-    },
     {
       "title": "micro1 Eval Hackathon 2026",
       "organizer": "micro1",
@@ -210,6 +146,22 @@
       "summary": "MNIT Jaipur Student Hackathon 2026 is an online student hackathon hosted by MIIC. It aims to encourage young innovators to develop solutions for real-world problems."
     },
     {
+      "title": "Protocol Zero: Boot | Hack | CTF",
+      "organizer": "ISEA Project, MeitY, Government of India",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-12-05",
+      "days_left": "Registration open",
+      "eligibility": "Open to students and cybersecurity enthusiasts",
+      "category": "Government",
+      "domain": "Cybersecurity",
+      "url": "https://www.facebook.com/SSOIndia2/posts/protocol-zero-boot-hack-ctf-where-cryptography-meets-codeready-to-challenge-your/1152898594272481",
+      "summary": "This national-level cybersecurity programme engages participants in applied cryptography, vulnerability discovery, and practical problem-solving. It features online bootcamps, hackathons, and Capture The Flag challenges to develop practical security solutions."
+    },
+    {
       "title": "UGREEN Hackathon 2026",
       "organizer": "America UGREEN Limited",
       "mode": "Online",
@@ -256,6 +208,22 @@
       "domain": "Cybersecurity",
       "url": "https://www.dsci.in/content/hackathon-2026",
       "summary": "The DSCI Capture the Flag hackathon features nine challenge areas ranging from GenAI to cryptography. Hosted alongside the Annual Information Security Summit 2026, it aims to recognize and reward top cybersecurity talent in the country."
+    },
+    {
+      "title": "DSCI Cybersecurity Hackathon 2026",
+      "organizer": "Data Security Council of India (DSCI)",
+      "mode": "Offline",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "location": "Pullman, Aerocity, New Delhi",
+      "prize": "₹ 2,50,000, ₹ 1,50,000, ₹ 1,00,000",
+      "event_date": "2026-12-09",
+      "days_left": "Registration open",
+      "eligibility": "Ethical hackers and cybersecurity talent in India",
+      "category": "Independent",
+      "domain": "Cybersecurity",
+      "url": "https://www.dsci.in/content/hackathon-2026",
+      "summary": "Hosted during the Annual Information Security Summit 2026, this Capture the Flag competition tests participants across GenAI, digital forensics, cloud security, and cryptography. Ethical hackers compete in real-world challenges to earn top national recognition and cash prizes."
     },
     {
       "title": "QNX Global Hackathon 2026",
@@ -355,7 +323,7 @@
     },
     {
       "title": "HACKSPRINT 3.0 2027",
-      "organizer": "KAHE, Coimbatore",
+      "organizer": "HackIndia",
       "mode": "Offline",
       "city": "Coimbatore",
       "state": "Tamil Nadu",
@@ -363,11 +331,11 @@
       "prize": "TBA",
       "event_date": "2027-02-05",
       "days_left": "Registration open",
-      "eligibility": "Open to computer science and engineering students",
+      "eligibility": "Open to students and developers",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HACKSPRINT 3.0 2027 is an offline hackathon organized at KAHE in Coimbatore for student developers. Participants collaborate to build innovative tech solutions over a two-day event."
+      "summary": "HACKSPRINT 3.0 2027 is an offline hackathon hosted at KAHE, Coimbatore as part of HackIndia events. Participating student builders collaborate over two days to develop innovative software solutions."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
@@ -387,19 +355,19 @@
     },
     {
       "title": "Diversion 2k27",
-      "organizer": "IEM Kolkata",
+      "organizer": "IEM",
       "mode": "Offline",
       "city": "Kolkata",
       "state": "West Bengal",
       "location": "IEM Gurukul Building, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal, India",
-      "prize": "TBA",
+      "prize": "Free entry",
       "event_date": "2027-03-06",
       "days_left": "Registration open",
-      "eligibility": "Open to students and young developers",
+      "eligibility": "Open to all students",
       "category": "Undergraduate",
       "domain": "Software",
-      "url": "https://techsnap.in/hackathons/city/kolkata",
-      "summary": "Diversion 2k27 is an in-person student hackathon hosted at IEM Kolkata. It encourages participants to collaborate in teams and develop innovative software solutions for modern challenges."
+      "url": "https://devfolio.co/hackathons",
+      "summary": "Diversion 2k27 is an offline hackathon organized at IEM Kolkata for students to innovate and build solutions across various domains. Participants collaborate over an open theme to prototype impactful software projects."
     },
     {
       "title": "Mailam Builds’27",
