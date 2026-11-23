@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T00:35:12.317Z",
+  "updated": "2026-11-23T01:03:19.048Z",
   "hackathons": [
     {
       "title": "micro1 Eval Hackathon 2026",
@@ -162,6 +162,22 @@
       "summary": "This national-level cybersecurity programme engages participants in applied cryptography, vulnerability discovery, and practical problem-solving. It features online bootcamps, hackathons, and Capture The Flag challenges to develop practical security solutions."
     },
     {
+      "title": "Protocol Zero: Boot | Hack | CTF 2026–27",
+      "organizer": "IIT Madras",
+      "mode": "Offline",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "location": "Shiv Nadar University, Chennai",
+      "prize": "₹10,00,000 in cash prizes and summer internship opportunities",
+      "event_date": "2026-12-05",
+      "days_left": "Registration open",
+      "eligibility": "Undergraduate and postgraduate students from recognized Indian institutions (Teams of 2–3)",
+      "category": "Undergraduate",
+      "domain": "Cybersecurity",
+      "url": "https://www.youtube.com/watch?v=MiT9hNIB7Os",
+      "summary": "Protocol Zero is a multi-stage national cybersecurity programme featuring bootcamps, online mini-CTFs, a hackathon, and an onsite final CTF. Participants build hands-on skills in applied cryptography, vulnerability discovery, and ethical hacking."
+    },
+    {
       "title": "UGREEN Hackathon 2026",
       "organizer": "America UGREEN Limited",
       "mode": "Online",
@@ -211,19 +227,19 @@
     },
     {
       "title": "DSCI Cybersecurity Hackathon 2026",
-      "organizer": "Data Security Council of India (DSCI)",
+      "organizer": "Data Security Council of India",
       "mode": "Offline",
       "city": "New Delhi",
       "state": "Delhi",
       "location": "Pullman, Aerocity, New Delhi",
-      "prize": "₹ 2,50,000, ₹ 1,50,000, ₹ 1,00,000",
+      "prize": "₹2,50,000 (1st), ₹1,50,000 (2nd), ₹1,00,000 (3rd)",
       "event_date": "2026-12-09",
       "days_left": "Registration open",
-      "eligibility": "Ethical hackers and cybersecurity talent in India",
-      "category": "Independent",
+      "eligibility": "Ethical hackers, students, and cybersecurity enthusiasts",
+      "category": "Undergraduate",
       "domain": "Cybersecurity",
       "url": "https://www.dsci.in/content/hackathon-2026",
-      "summary": "Hosted during the Annual Information Security Summit 2026, this Capture the Flag competition tests participants across GenAI, digital forensics, cloud security, and cryptography. Ethical hackers compete in real-world challenges to earn top national recognition and cash prizes."
+      "summary": "Hosted alongside the Annual Information Security Summit 2026, this Capture the Flag event challenges participants in multiple cybersecurity disciplines. Competitors solve real-world problems spanning GenAI, digital forensics, cloud security, blockchain, and cryptography."
     },
     {
       "title": "QNX Global Hackathon 2026",
@@ -323,19 +339,19 @@
     },
     {
       "title": "HACKSPRINT 3.0 2027",
-      "organizer": "HackIndia",
+      "organizer": "KAHE, Coimbatore",
       "mode": "Offline",
       "city": "Coimbatore",
       "state": "Tamil Nadu",
       "location": "KAHE, Coimbatore",
       "prize": "TBA",
       "event_date": "2027-02-05",
-      "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
+      "days_left": "Registration open · closes Dec 28",
+      "eligibility": "Open to builders and students",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HACKSPRINT 3.0 2027 is an offline hackathon hosted at KAHE, Coimbatore as part of HackIndia events. Participating student builders collaborate over two days to develop innovative software solutions."
+      "summary": "HACKSPRINT 3.0 2027 is an offline student hackathon hosted by KAHE in Coimbatore. The two-day event encourages developer teams to collaborate and build innovative software solutions."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
