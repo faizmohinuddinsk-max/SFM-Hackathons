@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-23T01:03:19.048Z",
+  "updated": "2026-11-24T04:54:31.892Z",
   "hackathons": [
     {
-      "title": "micro1 Eval Hackathon 2026",
-      "organizer": "micro1",
+      "title": "Homingo Hack Days",
+      "organizer": "Homingo",
       "mode": "Online",
       "city": "",
       "state": "",
       "location": "Online",
-      "prize": "$10,000 USD",
-      "event_date": "2026-11-23",
+      "prize": "TBA",
+      "event_date": "2026-11-24",
       "days_left": "Registration open",
-      "eligibility": "Open to students and tech enthusiasts",
+      "eligibility": "Students and early-career developers across India",
       "category": "Undergraduate",
-      "domain": "Software",
-      "url": "https://internshala.com/competitions/hackathons",
-      "summary": "The micro1 Eval Hackathon 2026 is an online competition organized by micro1 for technology enthusiasts. Participants compete to solve engineering challenges and win prizes from a $10,000 pool."
+      "domain": "AI/ML",
+      "url": "https://allhackathons.com",
+      "summary": "Homingo Hack Days is a free online AI engineering hackathon tailored for students and early-career developers in India. Participants collaborate to build and ship innovative artificial intelligence projects."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
@@ -98,6 +98,22 @@
       "summary": "This student hackathon hosted at KCCITM Greater Noida invites tech enthusiasts to build software projects. Competitors showcase their ideas and compete for a prize pool of ₹60K."
     },
     {
+      "title": "HackIndia KCCITM Hackathon",
+      "organizer": "KCCITM, Greater Noida",
+      "mode": "Offline",
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh",
+      "location": "KCCITM, Greater Noida",
+      "prize": "₹60,000",
+      "event_date": "2026-11-28",
+      "days_left": "Registration open",
+      "eligibility": "Open to students and tech enthusiasts",
+      "category": "Undergraduate",
+      "domain": "Software",
+      "url": "https://hackindia.org/hackathons",
+      "summary": "This offline hackathon is hosted at KCCITM in Greater Noida as part of the HackIndia event series. Participating student developers work in teams to construct software solutions within two days."
+    },
+    {
       "title": "BUILD 4 ALL",
       "organizer": "CS4ALL",
       "mode": "Online",
@@ -168,14 +184,14 @@
       "city": "Chennai",
       "state": "Tamil Nadu",
       "location": "Shiv Nadar University, Chennai",
-      "prize": "₹10,00,000 in cash prizes and summer internship opportunities",
+      "prize": "₹6 Lakh Prizes + Paid Internships",
       "event_date": "2026-12-05",
       "days_left": "Registration open",
-      "eligibility": "Undergraduate and postgraduate students from recognized Indian institutions (Teams of 2–3)",
+      "eligibility": "Undergraduate and Postgraduate students from recognised institutions across India",
       "category": "Undergraduate",
       "domain": "Cybersecurity",
       "url": "https://www.youtube.com/watch?v=MiT9hNIB7Os",
-      "summary": "Protocol Zero is a multi-stage national cybersecurity programme featuring bootcamps, online mini-CTFs, a hackathon, and an onsite final CTF. Participants build hands-on skills in applied cryptography, vulnerability discovery, and ethical hacking."
+      "summary": "Protocol Zero is a national-level cybersecurity competition featuring bootcamps, online hackathons, and Capture The Flag challenges. Participants get hands-on experience in applied cryptography, identifying vulnerabilities, and developing practical security solutions."
     },
     {
       "title": "UGREEN Hackathon 2026",
@@ -346,12 +362,12 @@
       "location": "KAHE, Coimbatore",
       "prize": "TBA",
       "event_date": "2027-02-05",
-      "days_left": "Registration open · closes Dec 28",
-      "eligibility": "Open to builders and students",
+      "days_left": "Registration open",
+      "eligibility": "Open to students and developers",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HACKSPRINT 3.0 2027 is an offline student hackathon hosted by KAHE in Coimbatore. The two-day event encourages developer teams to collaborate and build innovative software solutions."
+      "summary": "HACKSPRINT 3.0 2027 is a student-focused coding sprint organized at KAHE in Coimbatore. Attendees build innovative technology prototypes to tackle practical challenges."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
