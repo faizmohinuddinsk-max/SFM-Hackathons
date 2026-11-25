@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-24T04:54:31.892Z",
+  "updated": "2026-11-25T03:39:30.408Z",
   "hackathons": [
     {
-      "title": "Homingo Hack Days",
-      "organizer": "Homingo",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
+      "title": "TechnoXian",
+      "organizer": "TechnoXian",
+      "mode": "Offline",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "location": "Pacific Mall, New Delhi",
       "prize": "TBA",
-      "event_date": "2026-11-24",
-      "days_left": "Registration open",
-      "eligibility": "Students and early-career developers across India",
-      "category": "Undergraduate",
-      "domain": "AI/ML",
-      "url": "https://allhackathons.com",
-      "summary": "Homingo Hack Days is a free online AI engineering hackathon tailored for students and early-career developers in India. Participants collaborate to build and ship innovative artificial intelligence projects."
+      "event_date": "2026-11-27",
+      "days_left": "Registration deadline was 20 Nov 2026",
+      "eligibility": "Junior (up to 16 yrs) and Open categories",
+      "category": "Independent",
+      "domain": "Hardware",
+      "url": "https://www.bhagauti.in/events",
+      "summary": "This regional robotics competition features a zonal line-follower race built around Arduino platforms. Participants focus on sensor calibration, IR arrays, and motor PID algorithms under real track conditions."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
@@ -112,6 +112,22 @@
       "domain": "Software",
       "url": "https://hackindia.org/hackathons",
       "summary": "This offline hackathon is hosted at KCCITM in Greater Noida as part of the HackIndia event series. Participating student developers work in teams to construct software solutions within two days."
+    },
+    {
+      "title": "HCLTech AMPlified Season 2 Cybersecurity Hackathon",
+      "organizer": "HCLTech",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-12-04",
+      "days_left": "Registration open",
+      "eligibility": "Students graduating in 2028",
+      "category": "Undergraduate",
+      "domain": "Cybersecurity",
+      "url": "https://internshala.com/competitions/hcltech-amplified-season-2-cybersecurity",
+      "summary": "This multi-stage competition challenges students with an aptitude test, CTF assessment, and a project phase focused on cybersecurity. It evaluates participants on technical security skills and practical problem-solving capabilities."
     },
     {
       "title": "BUILD 4 ALL",
@@ -363,11 +379,11 @@
       "prize": "TBA",
       "event_date": "2027-02-05",
       "days_left": "Registration open",
-      "eligibility": "Open to students and developers",
+      "eligibility": "Open to student developers and builders",
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HACKSPRINT 3.0 2027 is a student-focused coding sprint organized at KAHE in Coimbatore. Attendees build innovative technology prototypes to tackle practical challenges."
+      "summary": "HACKSPRINT 3.0 2027 is a student hackathon hosted physically at KAHE in Coimbatore. The event brings together innovative builders to solve technical challenges over a two-day coding sprint."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
