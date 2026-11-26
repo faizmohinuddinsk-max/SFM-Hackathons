@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T03:39:30.408Z",
+  "updated": "2026-11-26T02:58:59.096Z",
   "hackathons": [
     {
       "title": "TechnoXian",
@@ -10,12 +10,12 @@
       "location": "Pacific Mall, New Delhi",
       "prize": "TBA",
       "event_date": "2026-11-27",
-      "days_left": "Registration deadline was 20 Nov 2026",
+      "days_left": "Registration closed on Nov 20, 2026",
       "eligibility": "Junior (up to 16 yrs) and Open categories",
       "category": "Independent",
       "domain": "Hardware",
       "url": "https://www.bhagauti.in/events",
-      "summary": "This regional robotics competition features a zonal line-follower race built around Arduino platforms. Participants focus on sensor calibration, IR arrays, and motor PID algorithms under real track conditions."
+      "summary": "TechnoXian is a zonal line-follower robotics competition designed to test sensor calibration, IR arrays, and motor PID algorithms under real track conditions. The event features both Junior and Open categories for robotics enthusiasts to build and race autonomous hardware."
     },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
@@ -383,7 +383,7 @@
       "category": "Undergraduate",
       "domain": "Software",
       "url": "https://hackindia.org/hackathons",
-      "summary": "HACKSPRINT 3.0 2027 is a student hackathon hosted physically at KAHE in Coimbatore. The event brings together innovative builders to solve technical challenges over a two-day coding sprint."
+      "summary": "HACKSPRINT 3.0 2027 is an offline hackathon hosted at KAHE, Coimbatore under the HackIndia initiative. Participating student teams collaborate to build and present software solutions over a two-day event."
     },
     {
       "title": "HackIndia Chennai Overdrive 2027",
