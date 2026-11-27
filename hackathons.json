@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:58:59.096Z",
+  "updated": "2026-11-27T03:05:39.994Z",
   "hackathons": [
     {
       "title": "TechnoXian",
@@ -180,18 +180,18 @@
     {
       "title": "Protocol Zero: Boot | Hack | CTF",
       "organizer": "ISEA Project, MeitY, Government of India",
-      "mode": "Online",
-      "city": "",
-      "state": "",
-      "location": "Online",
+      "mode": "Offline",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "location": "Shiv Nadar University, Chennai",
       "prize": "TBA",
       "event_date": "2026-12-05",
       "days_left": "Registration open",
-      "eligibility": "Open to students and cybersecurity enthusiasts",
+      "eligibility": "Open to students, cybersecurity learners, and professionals",
       "category": "Government",
       "domain": "Cybersecurity",
       "url": "https://www.facebook.com/SSOIndia2/posts/protocol-zero-boot-hack-ctf-where-cryptography-meets-codeready-to-challenge-your/1152898594272481",
-      "summary": "This national-level cybersecurity programme engages participants in applied cryptography, vulnerability discovery, and practical problem-solving. It features online bootcamps, hackathons, and Capture The Flag challenges to develop practical security solutions."
+      "summary": "A national-level cybersecurity initiative offering hands-on training in applied cryptography, security vulnerability detection, and CTF challenges. Top participants earn cash rewards and summer internship opportunities starting May 2027."
     },
     {
       "title": "Protocol Zero: Boot | Hack | CTF 2026–27",
@@ -274,6 +274,22 @@
       "summary": "Hosted alongside the Annual Information Security Summit 2026, this Capture the Flag event challenges participants in multiple cybersecurity disciplines. Competitors solve real-world problems spanning GenAI, digital forensics, cloud security, blockchain, and cryptography."
     },
     {
+      "title": "DSCI Hackathon 2026",
+      "organizer": "Data Security Council of India (DSCI)",
+      "mode": "Offline",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "location": "Pullman, Aerocity, New Delhi",
+      "prize": "₹ 2,50,000 (1st), ₹ 1,50,000 (2nd), ₹ 1,00,000 (3rd)",
+      "event_date": "2026-12-09",
+      "days_left": "Registration open",
+      "eligibility": "Open to students, researchers, and security professionals",
+      "category": "Independent",
+      "domain": "Cybersecurity",
+      "url": "https://www.dsci.in/content/hackathon-2026",
+      "summary": "The 10th edition of DSCI's flagship Capture The Flag competition held alongside the Annual Information Security Summit in New Delhi. Participants tackle real-world security challenges spanning GenAI, digital forensics, cloud security, and cryptography."
+    },
+    {
       "title": "QNX Global Hackathon 2026",
       "organizer": "Devpost",
       "mode": "Online",
@@ -304,6 +320,22 @@
       "domain": "AI/ML",
       "url": "https://internshala.com/competitions/hackathons",
       "summary": "The PayPal AI Hackathon 2026 is an online competition focusing on artificial intelligence and machine learning technologies. Participants build intelligent applications to compete for a $25,000 prize pool."
+    },
+    {
+      "title": "BlackPanda Labs CTF 2026",
+      "organizer": "BlackPanda Labs Foundation",
+      "mode": "Online",
+      "city": "",
+      "state": "",
+      "location": "Online",
+      "prize": "TBA",
+      "event_date": "2026-12-20",
+      "days_left": "Registration open",
+      "eligibility": "Open to cybersecurity learners, students, and professionals worldwide",
+      "category": "Independent",
+      "domain": "Cybersecurity",
+      "url": "https://unstop.com/hackathons/blackpanda-labs-ctf-2026-free-international-cybersecurity-competition-blackpandalabs-1825506/amp",
+      "summary": "A free international online cybersecurity CTF competition organized to provide practical hands-on security education. Participants solve technical challenges individually or in teams to test their problem-solving and cybersecurity skills."
     },
     {
       "title": "HackIndia Originals- FIN//NEXT 2027",
@@ -403,19 +435,19 @@
     },
     {
       "title": "Diversion 2k27",
-      "organizer": "IEM",
+      "organizer": "IEM-ACM Student Chapter",
       "mode": "Offline",
       "city": "Kolkata",
       "state": "West Bengal",
-      "location": "IEM Gurukul Building, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal, India",
-      "prize": "Free entry",
+      "location": "IEM Gurukul Building, Sector V, Bidhannagar, Kolkata",
+      "prize": "$550",
       "event_date": "2027-03-06",
       "days_left": "Registration open",
-      "eligibility": "Open to all students",
+      "eligibility": "Open to students (Teams of 1 to 4 people)",
       "category": "Undergraduate",
       "domain": "Software",
-      "url": "https://devfolio.co/hackathons",
-      "summary": "Diversion 2k27 is an offline hackathon organized at IEM Kolkata for students to innovate and build solutions across various domains. Participants collaborate over an open theme to prototype impactful software projects."
+      "url": "https://eventnews.in/upcoming-hackathons-in-india-2026",
+      "summary": "Organized by the IEM-ACM Student Chapter, this 2-day hackathon features tracks spanning AI, Web Development, Web3, AR/VR, and Cloud Computing. Participants collaborate in teams of 1 to 4 to build innovative technology solutions."
     },
     {
       "title": "Mailam Builds’27",
