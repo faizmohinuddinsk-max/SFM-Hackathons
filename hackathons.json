@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-27T03:05:39.994Z",
+  "updated": "2026-11-28T02:52:57.382Z",
   "hackathons": [
-    {
-      "title": "TechnoXian",
-      "organizer": "TechnoXian",
-      "mode": "Offline",
-      "city": "New Delhi",
-      "state": "Delhi",
-      "location": "Pacific Mall, New Delhi",
-      "prize": "TBA",
-      "event_date": "2026-11-27",
-      "days_left": "Registration closed on Nov 20, 2026",
-      "eligibility": "Junior (up to 16 yrs) and Open categories",
-      "category": "Independent",
-      "domain": "Hardware",
-      "url": "https://www.bhagauti.in/events",
-      "summary": "TechnoXian is a zonal line-follower robotics competition designed to test sensor calibration, IR arrays, and motor PID algorithms under real track conditions. The event features both Junior and Open categories for robotics enthusiasts to build and race autonomous hardware."
-    },
     {
       "title": "13th Protocol: An AI Hackathon 2026",
       "organizer": "KCCITM",
@@ -127,7 +111,7 @@
       "category": "Undergraduate",
       "domain": "Cybersecurity",
       "url": "https://internshala.com/competitions/hcltech-amplified-season-2-cybersecurity",
-      "summary": "This multi-stage competition challenges students with an aptitude test, CTF assessment, and a project phase focused on cybersecurity. It evaluates participants on technical security skills and practical problem-solving capabilities."
+      "summary": "This cybersecurity competition features aptitude testing, a CTF assessment, and a project development stage. It offers students graduating in 2028 a platform to demonstrate practical security skills."
     },
     {
       "title": "BUILD 4 ALL",
